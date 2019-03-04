@@ -5,37 +5,37 @@
 * Drucker, Johanna. "Introduction," *SpecLab: Digital Aesthetics and Projects in Speculative Computing*. 2009. PDF.
 * Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. 2011. Print.
 * Drucker, Johanna. ["Humanities Approaches to Graphical Display."](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) *DHQ: Digital Humanities Quarterly*. 2011. Web. 
+* Klein, Lauren F. ["The Image of Absence: Archival Silence, Data Visualization, and James Hemings."](https://read.dukeupress.edu/american-literature/article-abstract/85/4/661/4953/The-Image-of-Absence-Archival-Silence-Data?redirectedFrom=fulltext) *American Literature*, 85 (4): 661–688. 2013. Web.
 * Felski, Rita. *The Limits of Critique*. 2015. PDF.
+* Piper, Andrew. *Enumerations: Data and Literary Study*. 2018. Print.
 * Rockwell, Geoffrey and Stefan Sinclair. [*Voyant-Tools*](https://voyant-tools.org/). 2018. Web.
 
 ## Language
 * Barthes, Roland. *S/Z*. 1970. Print.
 * Landow, George. *Hypertext 3.0: Critical Theory and New Media in an Era of Globalization*. 2006. Print.
 * Tenen, Dennis. *Plain Text: the Poetics of Computation*. 2017. Epub.
-* Piper, Andrew. *Enumerations: Data and Literary Study*. 2018. Print.
 * Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986) *Women & Performance: a Journal of Feminist Theory*. 28:2, 2018. pp. 143-158. Web.
-* Jackson, Shirley. *Patchwork Girl*. 1995. CD-ROM.
 
 ## Networks
-* Galloway, Alexander. *Protocol*. 2004. PDF.
+* Galloway, Alexander. *Protocol: How Control Exists after Decentralization*. 2004. PDF.
 * Chun, Wendy. *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*. 2006. Print.
 * Bennett, Jane. *Vibrant Matter: A Political Ecology of Things*. 2010. PDF.
 * Moten, Fred and Stefano Harney. *The Undercommons: Fugitive Planning & Black Study*. 2013. Epub.
 * Tufekci, Zeynep. *Twitter and Tear Gas: the Power and Fragility of Networked Protest*. 2017. PDF.
-* Fisher, Caitlin. [*These Waves of Girls*](https://www.yorku.ca/caitlin/waves/navigate.html). 2001. Web.
+* *maybe* Mackenzie, Adrian. *Wirelessness: Radical Empiricism in Network Cultures*, 2010. 
 
 ## Media
 * Kittler, Friedrich. *Gramophone, Film, Typewriter*. 1999. Print.
 * Hayles, N. Katherine. *Writing Machines*. 2002. PDF.
-* Kirschenbaum, Matthew. *Mechanisms: New Media and the Forensic Imagination*. 2012. Print.
+* Kirschenbaum, Matthew. *Mechanisms: New Media and the Forensic Imagination*. 2008. Print.
 * Galloway, Alexander. *The Interface Effect*, 2012. PDF.
 * Hansen, Mark. *Feed-Forward: On The Future of 21st Century Media*. 2014. Epub.
-* Klein, Lauren F. ["The Image of Absence: Archival Silence, Data Visualization, and James Hemings."](https://read.dukeupress.edu/american-literature/article-abstract/85/4/661/4953/The-Image-of-Absence-Archival-Silence-Data?redirectedFrom=fulltext) *American Literature*, 85 (4): 661–688. 2013. Web.
+* Fisher, Caitlin. [*These Waves of Girls*](https://www.yorku.ca/caitlin/waves/navigate.html). 2001. Web.
 
 ## Editing
+* McKenzie, D.F. *Bibliography and the Sociology of Texts*. 1986. Print.
 * Tanselle, Thomas. "A Rationale of Textual Criticism". 1992. PDF.
 * Derrida, Jacques. [“Archive Fever: A Freudian Impression.”](http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf) *Diacritics*. Vol. 25, no. 2. 1995. PDF.
-* McKenzie, D.F. *Bibliography and the Sociology of Texts*. 1999. Print.
 * McGann, Jerome. *Radiant Textuality: Literature after the World Wide Web*. 2001. Print.
 * Caughie, Emily Datskou and Rebecca Parker. [“Storm Clouds on the Horizon: Feminist Ontologies and the Problem of Gender,”](https://www.tandfonline.com/doi/full/10.1080/24692921.2018.1505819?src=recsys) *Feminist Modernist Studies*. 1:3, 230-242. 2018. Web. 
 * Woolf, Virginia, Emily McGinn, Amy Leggette, Matthew Hannah, and Paul Bellew. ["Comparing Marks: A Versioning Edition of Virginia Woolf's 'The Mark on the Wall.'"](http://scholarlyediting.org/2014/editions/intro.markonthewall.html) *Scholarly Editing: The Annual of the Association for Documentary Editing*. Vol. 35, 2014. Web.
@@ -49,7 +49,6 @@ Thiruvathukal, eds. *Woolf Online*. www.woolfonline.com.
 * Hoover, David. “Argument, Evidence, and the Limits of Digital Literary Studies,” in *Debates in the Digital Humanities*, 2016, pp. 230-50.
 * Graff, Gerald. "Professing Literature: An Institutional History" 1989.
 * Deleuze, Giles and Felix Guattari. *A Thousand Plateaus: Capitalism and Schizophrenia*, 1987.
-* Mackenzie, Adrian. *Wirelessness: Radical Empiricism in Network Cultures*, 2010.
 * Hu, Tung-Hui. *A Prehistory of the Cloud*, 2016.
 * Bratton, Benjamin. *The Stack: On Software and Sovereignty*, 2016.
 * Aarseth, Espen. *Cybertext: Perspectives on Ergodic Literature*, 1997.
