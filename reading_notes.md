@@ -37,23 +37,6 @@ Piper, Andrew. *Enumerations: Data and Literary Study*, 2018. Print.
         - By incorporating models/graphs/visualizations, “We are no longer using our own judgments as benchmarks... but explicitly constructing the context through which something is seen as significant (and the means through which significance is assessed).... It interweaves subjectivity with objects” (17). 
 - With Machine Learning, engages a speculative method: “We see how “feeling” is gradually redefined over time by the novel away from an emotional state to one of perceptual encounter. This sense of the contemporary novel’s investment in sensorial embodiment awaits fuller treatment” (117). 
 
-### Language
-
-Barthes, Roland. *S/Z*, 1970. Print.
-- Barthes creates a sort of encoding scheme (interpreting according to a series of codes, which create a constellation of meanings across a single text) for Sarrasine. This encoding scheme dramatically opens up meaning, exposes the writerly potential of the text.
-
-Landow, George. *Hypertext 3.0: Critical Theory and New Media in an Era of Globalization*, 2006. Print.
-- The hypertext format engages the postmodern (structuralist/post-structuralist and deconstructive) theories about the multiplicity and instability of meaning in texts, as well as new radical conceptions of authorship
-- The hypertext is postmodern; hypertext destabilizes the apparently stable, it creates new centers, new tangents, new connections in between textual elements. 
-
-Tenen, Dennis. *Plain Text: the Poetics of Computation*, 2017. Epub.
-- Points out that each digital text carries with it a layer of hidden information that determines the display and dissemination of the document. Argues that we need to examine this layer to see how they also determine the way we engage with and interpret the document. There are underlying structures of power in copyright, surveillance, sharing, and modifying text, which is visible only in plain text. 
-    - Such media turns us into consumers rather than producers of media. Text that is highly restricted in its encoding threatens our critical ability. 
-        - Tenen proposes a microanalysis, computational poetics, or an archaeology of platforms and infrastructures (behind surface content). He points out what elides our notice about these media---that signs are fractured from their inscription (we do not experience how the sign is processed by the computer); and that mediation between human and machine becomes less and less accessible (eventually, we will be able to navigate interfaces with our minds). We don’t engage directly with the textual conduit, so we need to perform a media archaeology in order to have access to these processes and be in charge of them. 
-- Shows one cynical consequence of Landow’s argument. Instead of opening up the meaning of the text, of its dynamicity inviting more interpretations, Tenen points out that dynamicity can actually impose restrictions on interpretation. The text on the screen actually hides the ways in which it is already determined. 
-- Another interesting complication with the question of affect. Here, Tenen points out how pleasure in reading can actually be a bad thing, can evacuate the critical processes of interpretation. 
-    → on the one hand, we have the pleasure of intuitive interfaces and on the other, a short circuiting of critical ability. How does the collapsing/obscuring of mediation between us and our texts affect the way we read them? 
-
 ### Networks
 
 Galloway, Alexander. *Protocol*, 2004. PDF.
