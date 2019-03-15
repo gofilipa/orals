@@ -1,38 +1,62 @@
 # Daily Dissertation
 
+
+## March 14, 2019
+At the Undercommons
+
+Questions:
+
+**Should editing be restorative?**
+- Tanselle vs Mackenzie --- both consider the ideal text versus McGann who considers the n-dimensional text.
+- Tanselle --- the idea that physical forms are corrupting/corrupted and require the help of an editor; Mackenzie --- each witness is a branch of an ideal text, which is never to be realized (but animates the creation of the witnesses).
+- Against McGann, who thinks (electronic) editing should break open texts. This takes Mackenzie’s tree of witnesses and cuts off the trunk. McGann doesn’t think any one text should be prioritized.   
+
+**How do we maintain texts editorial methods / edited text without perpetuating their readings? Or recover without overwriting or determining?** In other words, how can we open rather than constrain or delimit meaning?
+- Tanselle vs Mackenzie (a history of misreadings) and McGann.
+- One is conservative, the other two are not. 
+
+**The irony of the archive**---that it works against itself. Putting something on the outside makes it vulnerable to destruction / pursuing the death drive / expresses the desire to destroy it. 
+- The moment proper to the archive, the (technological) moment of impression. When the key is pressing on the paper, that is the moment of archivization.
+
+**Disambiguation and creativity:**
+- McGann separates editorial projects (archives) from hermeneutic projects (prosthetic tools). Though he seems to loosen his thinking on this point, this is a division between informational and analytical uses of technology, of science and poetry, which is outdated. 
+- Caughie et al.---showing how questions about computer disambiguation brings us to look at our own categories and definitions. Also that these issues shouldn’t necessarily be resolved, we ought to keep open the sense of confusion about gender. We don’t need a solution. We need a way of showing dynamicity while still being findable. 
+
+## March 8 2019 
+at the Undercommons
+
+Notes: ADD SEX, OR THE UNBEARABLE to QM
+
+Digital: Media reading:
+
+**Where can we locate pleasure in media?**
+- Kittler’s pleasure in the circuits? “Whosoever is able to hear or see the circuits in the synthesized sound of CDs or in the laser storms of a disco finds happiness” (xl-xli).
+- Pleasure in the media archaeology, in forensics. 
+
+**What can media tell us about sensation?**
+- The idea that media developments are cyclical and recursive. Orality was followed by writing, followed by the recording of orality (Kittler). Current (and prior) sense perceptions elided by present technology may in the future come to be recorded and felt.
+
+**Where lies the distinction between media (such as analogue and digital) for these writers?** 
+- According to Kittler: symbolic (writing) → physical (gramophone, film, typewriter) → electronic (pulses). 
+- According to Hayles, all media is remediation, it cycles through other media. A TV screen that evokes a computer screen. A computer screen that evokes a printed page. 
+- According to Kirschenbaum, the difference is between forensic materiality (hardware (no matter how nanoscale)), and formal materiality (the illusion of immaterial, the interface).  
+- According to Hansen, media engages connects to our perceptions, new media have expanded our perceptual reach (an environmental sensibility), and as a result our consciousness is anticipatory. It feeds forward. 
+- According to Klein, new media allows us to bring to the fore things that cannot be represented, and to leave them like that. We use digital media to evoke connections that are active and moving, not presences that are fixed or recovered. 
+
+**Media and subjectivity / narration / literature**
+- Hayles’ remediated narrator--- the idea that mediation fuses consciousness with levels/technologies of inscription. This replaces modernity’s unreliable narrator. 
+
+All of these critics (except maybe Hansen) are a critique of Kittler in some way. They assert that, in fact, electronic media is more than streams of data, pulses of light, “eyewash”. The benefits of examining how “information lost its body” are clear here---but what are the benefits of seeing digital media as just pulses of light? Maybe Hansen can help answer this question. 
+
+The bit is inaccessible to us except in the symbol. This is really the foundation of … mediation?
+
+**How does RAM, which emerged due to an addressing problem, operate like human memory?**
+
 ## February 28 -- undercommons
 
 Digital: Networks reading:
 
 What is most provocative in theses readings is thinking about networks as run by protocols (standards of control, which facilitate connections between nodes,) and how to work with such protocols in order to subvert their inherent means of hierarchical, top-down control. The trick is to think of the kinds of connections facilitated by different kinds of protocols. **What if we approached things from a position of wonder, fascination, rather than from a position of critique? What if we resolved to study together, collect debt, steal from the university, feel each other, rather than do the work of professionalization?** This idea about protocol as necessary for networks brings us to rethink what a protocol might be. 
-
-Below are some key notes and questions:
-
-Galloway, Alexander. *Protocol*, 2004. PDF.
-- DNS and TCP/IP engage a vertical (hierarchical) and horizontal (democratic) models of control, with the effect of submitting the “freedom” of movement in the network to the authorization of a controlling head. This paradox between freedom and control, between hierarchy and horizontalism, can perhaps help us to transcend our thinking of computers as disambiguation machines. 
-    - A protocol is a wrapper---it does not engage in meaning/content, but in possibility, physics or logic. Thinking of protocols as tags that are appended, added on, not changing the data but wrapping it, with possibility. There is a speculative component here. This is about the EXPLOIT.
-    - “Protocol is a circuit, not a sentence” (52).
-- Code is the only language that is executable. It acts out its inscriptions, that it applies to something… Code does what it says, it goes from declaration to movement. Code has a semantic meaning, but it also has an enactment of meaning. It moves. 
-    - “Code thus purports to be multidimensional. Code draws a line between what is material and what is active, in essence saying that writing (hardware) cannot do anything, but must be transformed into code (software) to be effective… The algorithm is prepared in advance, then later executed by the artist” (165). 
-
-Chun, Wendy, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics,* 2006. Print.
-- How hardware (as opposed to software) engages with the freedom/control paradox of internet networks. To Chun, the issue isn’t the control technologies that drive the internet, but in the way that the workings of the technology is obscured, the ways that protocol is hidden and amplified. We aren’t aware of the packets that pass through our computer, but they are there. “If you believe that your communications are private, it is because software corporations, as they relentlessly code and circulate you, tell you that you are behind, and not in front of, the window” (22)
-- What are the possibilities opened up by our vulnerabilities?
-    - All computers engage in this give and take. That’s what make networks possible in the first place. Napster just made this fundamental truth evident. The internet’s potential is not in individual empowerment, but in universal exposure, in the way that it exposes us to new visibilities that we cannot control. 
-
-Bennett, Jane. *Vibrant Matter: A Political Ecology of Things*, 2010. PDF.
-- Vitality means that things have their own forces, trajectories, tendencies. 
-Thinking of matter as an object or dead makes us destructive; we assert our power/subjectivity over them rather than acknowledge a mutual connection. . 
-- Rather than be suspicious (hermeneutics of suspicion), which projects an agential/subjective presence, we ought to dwell in a hermeneutics of wonder, of knowing things through intellectual and aesthetic exercises, which motivate fascination (action?) rather than critique. 
-- Everything is really an assemblage. Your brain is not “you”, but a collection of processes that are engaging with a bunch of other processes to form “you”. This is the connection to the swarm. A bunch of things are vitalized, and therefore acting in tandem like a swarm. 
-
-Moten, Fred and Stefano Harney. *The Undercommons: Fugitive Planning & Black Study*, 2013. Epub.
-- "The undercommons is a fugitive network where a commitment to abolition and collectivity prevails over a university culture bent on creating socially isolated individuals whose academic skepticism and claims of objectivity leave the world as it is intact.” 
-- We are broken, but cannot be repaired. All we can do is study, collect debt, and join in the shipped. Study is a mode of thinking with others, an assemblage. Debt is a state of being that we acknowledge but do not attempt to have repaired. We are always building debt, never paying it off. The shipped is where we all are, thrown in together, touching each other, feeling through each other, each other’s feels. 
-
-Tufekci, Zeynep. *Twitter and Tear Gas: the Power and Fragility of Networked Protest*, 2017. PDF.
-- Analyzing modern protest and how they use networks to mobilize. She describes how the internet helped the Zapatista uprisings in Mexico, the necessity of remote Twitter users to organize medical supplies during Arab Spring, the refusal to use bullhorns in the Occupy Movement that started in New York.
-- While adhocracy, facilitated by horizontalism, allows for movements to improvise to meet immediate needs, tactical freeze is a potential disruption, an inability to advocate for policies or demands, moves requiring consensus and organization that is antithetical to the horizontal and improvisational structure of adhocracy.  In such an environment, information and misinformation glut is a real problem, as the important information gets diluted or obscured. Today, gatekeeping is done by governments, algorithms, platforms. 
 
 Questions:
 **What is a network?**
@@ -68,22 +92,7 @@ The Undercommons suggests ways for subverting the control and protocols of the n
 
 ## February 21 -- undercommons
 
-Digital: Language subsection. Looking at three texts: 
-
-Barthes, Roland. *S/Z*, 1970. Print.
-- Barthes creates a sort of encoding scheme (interpreting according to a series of codes, which create a constellation of meanings across a single text) for Sarrasine. This encoding scheme dramatically opens up meaning, exposes the writerly potential of the text.
-
-Landow, George. *Hypertext 3.0: Critical Theory and New Media in an Era of Globalization*, 2006. Print.
-- The hypertext format engages the postmodern (structuralist/post-structuralist and deconstructive) theories about the multiplicity and instability of meaning in texts, as well as new radical conceptions of authorship
-- The hypertext is postmodern; hypertext destabilizes the apparently stable, it creates new centers, new tangents, new connections in between textual elements. 
-
-Tenen, Dennis. *Plain Text: the Poetics of Computation*, 2017. Epub.
-- Points out that each digital text carries with it a layer of hidden information that determines the display and dissemination of the document. Argues that we need to examine this layer to see how they also determine the way we engage with and interpret the document. There are underlying structures of power in copyright, surveillance, sharing, and modifying text, which is visible only in plain text. 
-    - Such media turns us into consumers rather than producers of media. Text that is highly restricted in its encoding threatens our critical ability. 
-        - Tenen proposes a microanalysis, computational poetics, or an archaeology of platforms and infrastructures (behind surface content). He points out what elides our notice about these media---that signs are fractured from their inscription (we do not experience how the sign is processed by the computer); and that mediation between human and machine becomes less and less accessible (eventually, we will be able to navigate interfaces with our minds). We don’t engage directly with the textual conduit, so we need to perform a media archaeology in order to have access to these processes and be in charge of them. 
-- Shows one cynical consequence of Landow’s argument. Instead of opening up the meaning of the text, of its dynamicity inviting more interpretations, Tenen points out that dynamicity can actually impose restrictions on interpretation. The text on the screen actually hides the ways in which it is already determined. 
-- Another interesting complication with the question of affect. Here, Tenen points out how pleasure in reading can actually be a bad thing, can evacuate the critical processes of interpretation. 
-    → on the one hand, we have the pleasure of intuitive interfaces and on the other, a short circuiting of critical ability. How does the collapsing/obscuring of mediation between us and our texts affect the way we read them? 
+Digital: Language subsection. Looking Barthes, Tenen, Landow (and adding Fisher, *These Waves of Girls*).
 
 In a way, all about the role of text encoding, or “tagging” or processing text in order to interpret or present that text on a computer screen:
 - Barthes’ encoding scheme in S/Z,
@@ -110,44 +119,6 @@ Something that we are missing, a pleasure in the pain of identification? The tor
 This week I'm synthesizing material from my Digital Studies: Methods subtopic. Here I’m looking at methods, or specific reading strategies, proposed by several theorists who generally work in the Digital Humanities field. I examine the role of vision, rhetoric, reasoning, speculation, and affect as “interpretive” moves in critical reading practices. The debate between the different methods generally falls into one of two opposing sides: the positivists, who posit that we can ascertain truth and verifiable (what Moretti calls “falsifiable”) readings of texts, versus the deformers/speculators, who deny and refuse falsifiable criticism, in favor of reading practices that equivocate or deepen textual meaning. This group values the process of reading over the product. 
 
 I am most interested in how these two camps interpret and deploy the role of empiricism, the role of the senses and then of sense-making through rhetoric, in critical methods.
-
-Below are some summaries and questions for each of the texts in this suptopic:
-
-Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. 2007. Print.
-- Moretti supports a positivist agenda for literary criticism. He ascribes an objective status to visualizations, as if they aren’t based on subjective research (monographs!) and his own decision making. He also neglects to fully embrace his own readings as subjective, and calls them “explanations” rather than “interpretations”. 
-- Basically, Moretti minimizes his role as a critic, in service of a larger, collective project on doing literary history. But he doesn’t have to minimize the critic’s reading to feel like he’s part of a collective. 
-
-Drucker, Johanna. "Introduction," *SpecLab: Digital Aesthetics and Projects in Speculative Computing*. 2009. PDF.
-- Drucker uses the computer for creative ends. Computation geared toward speculation rather than testing or confirmation. 
-- Doesn’t this line of argument perpetuate the idea that the computer is more objective than the human? That the computer ultimately remains a rational tool? Isn’t it just pointing the direction of interpretation at a new target, which is speculation, while still using the same gun? Is this right?
-- How would speculation and potentiality play into a feminist project/reading?
-
-Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. 2011. Print.
-- Ramsay positions himself as a moderate, saying that computers are merely tools, part of a more expansive subjective process, of hermeneutics. His ideas herer agree nicely with Drucker’s in Speclab. 
-- What’s particularly useful about Ramsay is his opposing of humanistic endeavor against scientific inquiry. This specifies how observation is a phenomenal, subjective experience, and is antithetical to the motives and processes of scientific inquiry, the scientific method. Ramsay allows us to understand how empirics(?) can be subsumed within a humanistic frame, which does not attempt to ascertain “truth” but only “potentiality”. 
-- Like Drucker, isn't Ramsay speaks as if the computer is this uber-objective tool? Like code/software has no biases or idiosyncrasies? What about examining the way that these processes encode subjectivity? 
-
-Drucker, Johanna. "Humanities Approaches to Graphical Display." *DHQ: Digital Humanities Quarterly*. 2011. Web.
-- Drucker argues that data visualization tools and techniques naturalize and flatten things that are actually complex and ambiguous. She proposes that we switch “data” (given) for “capta” (taken), to emphasize how all information has been constructed, pre-cooked (never raw). She proposes that we skew and blur and disrupt the neatness of our graphs and charts. 
-- But isn’t this just turning criticism into poetry? Don’t we need something stronger, clearer,more delineated?
-- What is the role is clarity and “realist” or “natural” constructions of knowledge?
-
-Felski, Rita. *The Limits of Critique.* 2015. PDF.
-- Felski usefully talks about reading as an affective orientation. It’s not about the way that we read, but about the way that we position ourselves and our desires around texts. She warns that suspicious attitudes toward texts foreclose the possibility for new readings, new thoughts. 
-
-Rockwell, Geoffrey and Stefan Sinclair. *Voyant-Tools*. 2018. Web.
-- Voyant Tools is a web application, developed out of earlier iterations by Stéfan Sinclair (McGill University) and Geoffrey Rockwell (University of Alberta). It functions as a one-stop-shop for text analysis, offering an easy to use interface that processes text in seconds, organizing it into a series of interactive  lists, charts, graphs, and networks. 
-- facilitates:
-    - *Praxis as an Hermeneutic* -- The tool’s primary interface on the homepage obscures its documentation to prioritize experimentation over discourse. The blank text box, accompanied by the mysterious “Reveal” button, prompts exploration, where users are invited to jump in without fully knowing how the tool functions, foregrounding the role that ignorance plays in discovering unforeseen elements about the text. 
-    - *Speculation* -- Using text-analysis in this way inspires new readings by bringing to light neglected, miniscule, or concealed aspects about texts. The defamiliarization of what we think we know leads us to speculate about other possibilities, and experience more active and playful approaches to inquiry.
-
-Piper, Andrew. *Enumerations: Data and Literary Study*, 2018. Print.
-- This shows how distant and close reading can be used together --- Distant reading provides context, or framework, for close reading; in which number becomes a lens, a frame of the quantitative, to approach closer readings and even inform further model building. 
-- Though computation facilitates literary analysis, a number of flawed premises about distance, bigness, or objectivity (which lack a science of generalization), have clouded the ways we approach computation (9).
-    - “Entanglement is a far more appropriate way of thinking about literary modeling than the disembodied eye in the sky of the lone, distant reader” (19).
-        - By incorporating models/graphs/visualizations, “We are no longer using our own judgments as benchmarks... but explicitly constructing the context through which something is seen as significant (and the means through which significance is assessed).... It interweaves subjectivity with objects” (17). 
-- With Machine Learning, engages a speculative method: “We see how “feeling” is gradually redefined over time by the novel away from an emotional state to one of perceptual encounter. This sense of the contemporary novel’s investment in sensorial embodiment awaits fuller treatment” (117). 
-
 
 ## December 27
 
