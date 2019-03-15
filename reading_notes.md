@@ -74,6 +74,13 @@ Tufekci, Zeynep. *Twitter and Tear Gas: the Power and Fragility of Networked Pro
 - While adhocracy, facilitated by horizontalism, allows for movements to improvise to meet immediate needs, tactical freeze is a potential disruption, an inability to advocate for policies or demands, moves requiring consensus and organization that is antithetical to the horizontal and improvisational structure of adhocracy.  
 In such an environment, information and misinformation glut is a real problem, as the important information gets diluted or obscured. Today, gatekeeping is done by governments, algorithms, platforms.
 
+Klein, Lauren F., "The Image of Absence: Archival Silence, Data Visualization, and James Hemings," in *American Literature*, 85 (4): 661–688, 2013. Web.
+- The way that Klein approaches her work with the invisible or forgotten is useful here. It’s not about recovering what is absent, of making things present in some way. It’s about tracing the activity, the pathways of connection, networks of communication. 
+- “The archive as a site of action rather than as a record of fixity or loss” (665).
+- We let ghosts be ghosts. An image of absence. 
+- Critique of Ramsay --- there are places where meaning and understanding are impossible. The digital is not just about supplementing subjective hermeneutics with shiny new tools, but about changing the way that we think about the archive, and our understanding of the archival record. 
+
+
 ### Language
 
 Barthes, Roland. *S/Z*, 1970. Print.
@@ -139,7 +146,6 @@ Woolf, Virginia. "Comparing Marks: A Versioning Edition of Virginia Woolf's 'The
 - In contrast to the beginning of the story, which locates the action in the past, the interruption here locates the narration in the present, unfolding action, which then leads to a final statement in the past tense. These ambiguities and mergings signal the important role that time plays in mediating the story itself, and especially, in bringing it to a close.
 
 ### Editing
-
 
 Tanselle, Thomas. "A Rationale of Textual Criticism", 1992. PDF.
 - Greg-Bowers-Tanselle are against the tyranny of the copy-text, and think we should be making eclectic editions, being careful and deliberate about our choice and judgment of substantive elements. 
