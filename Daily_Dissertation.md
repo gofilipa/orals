@@ -4,6 +4,8 @@
 ## March 14, 2019
 At the Undercommons
 
+Digital: Editing notes
+
 Questions:
 
 **Should editing be restorative?**
