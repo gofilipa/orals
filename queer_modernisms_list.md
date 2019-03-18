@@ -1,4 +1,5 @@
-*Below is a final version of my list, "Queer Modernisms and Affects", organized by various subtopics.*
+# Queer Modernisms and Affects
+Filipa Calado
 
 ## Foundations
 - Cixous, Hélène. "The Laugh of the Medusa." 1975.
