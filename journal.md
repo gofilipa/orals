@@ -3,10 +3,9 @@
 
 ## March 15, 2019
 
-Meeting with M--
-Summarizing my "Digital Methods and Textualities" list by subsection, in preparation for my rationale.
+Meeting with M--: summarizing my "Digital Methods and Textualities" list by subsection, in preparation for my rationale.
 
-**Methods**
+### Methods
 
 * Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. 2007. Print.
 * Drucker, Johanna. "Introduction," *SpecLab: Digital Aesthetics and Projects in Speculative Computing*. 2009. PDF.
@@ -19,7 +18,7 @@ Summarizing my "Digital Methods and Textualities" list by subsection, in prepara
 My sources here fall into two camps: the positivists (Moretti) and the deformers/speculators (Ramsay, Drucker, Felski, Piper). I'm interested in how each deploys empirical methods---of the senses and sense-making---in their work. There are connections to my list with J--, "Theories of the Mind and Perception," where I look at cognition and thinking/feeling. How do these processes happen in the brain? More to be done here. 
 In this section, looking at *Voyant-Tools* as the tool par excellence of the kind of  hermeneutic that digital tools ought to engage. A text visualization tool that makes formal intervetions on the textual object, but cannot do so without the critics input at each step (from uploading the text to interacting with the visualizations). A tool that effaces its own technical construction (the javascript code that powers it) in order to emphasize *modeling* as a critical activity. 
 
-**Language**
+### Language
 
 * Barthes, Roland. *S/Z*. 1970. Print.
 * Fisher, Caitlin. [*These Waves of Girls*](https://www.yorku.ca/caitlin/waves/navigate.html). 2001. Web.
@@ -31,7 +30,7 @@ Most of these sources are about encoding or tagging---the invisible data that ap
 There's a question of pleasure: Does pleasure reside more in the collapsing of the interface (between reader and text) or in the evcavation of the textual conduit? A question to be taken up in my *Media* section... 
 Here, looking at *These Waves of Girls*, a hypertext novella, there is a pleasure in following the text, in chasing narrative closure, that is not unlike sexual pleasure and frustration. The narrator's quest of sexual discovery parallels the reader's quest across the labrynthine narrtive, which defies rest and full understanding. 
 
-**Networks**
+### Networks
 
 * Galloway, Alexander. *Protocol: How Control Exists after Decentralization*. 2004. PDF.
 * Chun, Wendy. *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*. 2006. Print.
@@ -44,7 +43,7 @@ Networks are run by protocols, which enable and structure connections. What kind
 Paradox of control/freedom (Chun and Galloway): Despite the restrictions of protocol, there is a freedom in the possibility of connection. Each node is free to connect to another. This may allow us to rethink the element of control, of disambiguation/fixity required by the computer. If protocols append data with possibility (Galloway), there opens a space to manipulate control, in the site of contact. There is vulnerability at the site of contact (Chun). 
 The "Image of Absence" looks to the networks of connection between what has been lost in the archive, rather than attempt to recover or replace. The archive as a site of action rather than fixity or loss. 
 
-**Media**
+### Media
 
 * Kittler, Friedrich. *Gramophone, Film, Typewriter*. 1999. Print.
 * Hayles, N. Katherine. *Writing Machines*. 2002. PDF.
@@ -62,7 +61,7 @@ Many interests here:
 - Kirschenbaum's framework of formal and forensic materiality. A media archaeologial perspective. 
 - The abstraction of digital media allows us to overlook their sensuality.
 
-**Editing**
+### Editing
 
 * McKenzie, D.F. *Bibliography and the Sociology of Texts*. 1986. Print.
 * Tanselle, Thomas. "A Rationale of Textual Criticism". 1992. PDF.
@@ -73,7 +72,7 @@ Many interests here:
 
 Should editing be resorative? Do the unresolvable obstacles or limitations of computation (most convincingly pointed out by McGann and Caughie, to different effects) suggest that, maybe, some things shouldn't be resolved? For Caughie, do we *want* a gender ontology that can be hard coded? Do we want to fix gender so it is legible? How to make things findable and dynamic? Should we expand TEI (Singer)?
 
-M--'s suggestions:
+**M--'s suggestions:**
 - What are the usable concepts? What would I be writing about in an article five years from now? What do I want to take with me? 
 - "Reading like a hawk." Do not succumb to the other's argument, do not get lost. 
 - Read *Distant Visions* or the article from *Cultural Analytics*.
