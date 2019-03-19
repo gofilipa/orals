@@ -107,6 +107,8 @@ Additionally, the reader’s narrative desire for closure is related to her sexu
     - FOR example, within the “I have always engaged with impossible comparisons” we click through the arrows to a lexia, “at seven,” which has a link, they'd put their hands on my thigh at the movies, which in fact leads to “Grade two,” another story about the time that an a man fondled the Tracey’s leg at the movies. We have a series of options on this story, and I click the link “the theatre was so dark,” which leads me to a recollection of a night picking fireflies. I click through the arrows, reading through Tracey’s fond and precious memory. The final lexia in this series has a link, “Do they dream about little girls the way I dream about them?” It seems to be referring to the older man (not the fireflies).
 - We are always losing context. We read fragments of what was previously written. There is no guidance, the reader decides how to move at every point. It’s all about agency.
 
+* Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986) *Women & Performance: a Journal of Feminist Theory*. 28:2, 2018. pp. 143-158. Web.
+
 ### Media
 
 Kittler, Friedrich. *Gramophone, Film, Typewriter*, 1999. Print and PDF.
@@ -124,6 +126,8 @@ Hayles, N. Katherine. *Writing Machines*, 2002. PDF.
 - Technotexts are literary works that self-reflexively engage with their own inscription practices. They explore how many levels of text entwine with bodies, a distributed cognitive environment in which reading takes place. 
 - How mediation affects subjectivity, how the interaction between physical and verbal forms construct meaning and therefore, the user/reader. 
 - In *House of Leaves*, the remediated narrator evacuates consciousness as the source of production and replaces it with mediated subjectivities. “Consciousness is no longer the relevant frame but rather consciousness fused with technologies of inscription” (116-117).
+
+Blanchette, Jean-François, "(A Material History of Bits)[https://onlinelibrary-wiley-com.ezproxy.gc.cuny.edu/doi/epdf/10.1002/asi.21542]." *Journal of the American Society for Information Science and Technology*, no. 62: pp. 1042-1057, 2008. 
 
 Kirschenbaum, Matthew. *Mechanisms: New Media and the Forensic Imagination*, 2012. Print.
 - Argues for the heterogeneity of digital data---against the idea that they are transient, uniform, copyable, permanent. This combats “screen essentialism”---the idea that what happens on the screen is independent from hardware. It also resists the notion that digital media are totally different from analogue. In fact, a hard drive and a turntable appear and function with striking similarities. 
@@ -144,6 +148,8 @@ Hansen, Mark. *Feed-Forward: On The Future of 21st Century Media*, 2014. Epub.
 Woolf, Virginia. "Comparing Marks: A Versioning Edition of Virginia Woolf's 'The Mark on the Wall.'" eds. Emily McGinn, Amy Leggette, Matthew Hannah, and Paul Bellew. *Scholarly Editing: The Annual of the Association for Documentary Editing*, Vol. 35, 2014. Web.
 - Hansen’s central intervention on Whitehead’s thought, arguing that, while technology expands the scope for human perception across new sensory environments, it also limits the human’s immediate sensory experience of the world. Mark Hansen offers a provocative framework for thinking about human engagement with twenty-first-century media. It is precisely this exchange between direct and indirect perception that changes my reading of Woolf’s short story. First, on a material level, the edition expands the reader’s access to the text across time, while marginalizing her direct engagement with the witnesses as physical, time-bound objects, as actual books. This tension between the physical and virtual in the edition provokes a further implication on the level of narrative, which complicates Matz’s reading of perceptual unities that drive the narration. Allowing us to expand our perceptual capacities to things we might not directly feel but nonetheless experience, the edition opens up a reading of time as an agent in the story.
 - In contrast to the beginning of the story, which locates the action in the past, the interruption here locates the narration in the present, unfolding action, which then leads to a final statement in the past tense. These ambiguities and mergings signal the important role that time plays in mediating the story itself, and especially, in bringing it to a close.
+
+* Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of Elemental Media, 2016.
 
 ### Editing
 
@@ -174,6 +180,8 @@ In its potentiality, McGann asserts, “Every page, even a blank page… is n-di
 - Science vs Poetry
     - He clarifies that there is a difference between editorial/archival projects (which treat text as information) and hermeneutic/analytical projects that treat the reading process and interpretation (treat text as recursive aesthetic elements). Though our current tools, SGML/TEI, serve informational purposes, McGann is excited about the potential of XML (TEI, SGML). Hypertext exists before the web.  We need tools that function as prosthetic extensions. 
     - SGML cannot capture poetics, “the recursive patterns that constitute an essential… feature of poetry” (172).
+
+Singer, Kate. “(Digital Close Reading: TEI for Teaching Poetic Vocabularies)[https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/].” *The Journal of Interactive Technology and Pedagogy* 3, May 15, 2013. 
 
 Caughie, Emily Datskou and Rebecca Parker, “Storm Clouds on the Horizon: Feminist Ontologies and the Problem of Gender,” *Feminist Modernist Studies*, 1:3, 230-242, 2018. Web.
 - This is an application of McGann’s comments about incommensurability. The TEI won’t allow them to assign multiple genders to one identity, in order to mark a mid-text gender shift.

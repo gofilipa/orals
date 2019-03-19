@@ -1,9 +1,86 @@
 # Daily Dissertation
 
 
+## March 15, 2019
+
+Meeting with M--
+Summarizing my "Digital Methods and Textualities" list by subsection, in preparation for my rationale.
+
+**Methods**
+
+* Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. 2007. Print.
+* Drucker, Johanna. "Introduction," *SpecLab: Digital Aesthetics and Projects in Speculative Computing*. 2009. PDF.
+* Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. 2011. Print.
+* Drucker, Johanna. ["Humanities Approaches to Graphical Display."](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) *DHQ: Digital Humanities Quarterly*. 2011. Web. 
+* Felski, Rita. *The Limits of Critique*. 2015. PDF.
+* Piper, Andrew. *Enumerations: Data and Literary Study*. 2018. Print.
+* Rockwell, Geoffrey and Stefan Sinclair. [*Voyant-Tools*](https://voyant-tools.org/). 2018. 
+
+My sources here fall into two camps: the positivists (Moretti) and the deformers/speculators (Ramsay, Drucker, Felski, Piper). I'm interested in how each deploys empirical methods---of the senses and sense-making---in their work. There are connections to my list with J--, "Theories of the Mind and Perception," where I look at cognition and thinking/feeling. How do these processes happen in the brain? More to be done here. 
+In this section, looking at *Voyant-Tools* as the tool par excellence of the kind of  hermeneutic that digital tools ought to engage. A text visualization tool that makes formal intervetions on the textual object, but cannot do so without the critics input at each step (from uploading the text to interacting with the visualizations). A tool that effaces its own technical construction (the javascript code that powers it) in order to emphasize *modeling* as a critical activity. 
+
+**Language**
+
+* Barthes, Roland. *S/Z*. 1970. Print.
+* Fisher, Caitlin. [*These Waves of Girls*](https://www.yorku.ca/caitlin/waves/navigate.html). 2001. Web.
+* Landow, George. *Hypertext 3.0: Critical Theory and New Media in an Era of Globalization*. 2006. Print.
+* Tenen, Dennis. *Plain Text: the Poetics of Computation*. 2017. Epub.
+* Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986) *Women & Performance: a Journal of Feminist Theory*. 28:2, 2018. pp. 143-158. Web.
+
+Most of these sources are about encoding or tagging---the invisible data that appends electronic text. Barthes and Landow are idealistic in how codes may unleash meaning (writerly text & hypertext), While Tenen sees codes as disempowering. He warns against the disenfranchisement that comes with easy and seamless reading interfaces. What makes codes illegible evacuates our critical understanding. 
+There's a question of pleasure: Does pleasure reside more in the collapsing of the interface (between reader and text) or in the evcavation of the textual conduit? A question to be taken up in my *Media* section... 
+Here, looking at *These Waves of Girls*, a hypertext novella, there is a pleasure in following the text, in chasing narrative closure, that is not unlike sexual pleasure and frustration. The narrator's quest of sexual discovery parallels the reader's quest across the labrynthine narrtive, which defies rest and full understanding. 
+
+**Networks**
+
+* Galloway, Alexander. *Protocol: How Control Exists after Decentralization*. 2004. PDF.
+* Chun, Wendy. *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*. 2006. Print.
+* Bennett, Jane. *Vibrant Matter: A Political Ecology of Things*. 2010. PDF.
+* Moten, Fred and Stefano Harney. *The Undercommons: Fugitive Planning & Black Study*. 2013. Epub.
+* Klein, Lauren F. ["The Image of Absence: Archival Silence, Data Visualization, and James Hemings."](https://read.dukeupress.edu/american-literature/article-abstract/85/4/661/4953/The-Image-of-Absence-Archival-Silence-Data?redirectedFrom=fulltext) *American Literature*, 85 (4): 661–688. 2013. Web.
+* Tufekci, Zeynep. *Twitter and Tear Gas: the Power and Fragility of Networked Protest*. 2017. PDF.
+
+Networks are run by protocols, which enable and structure connections. What kinds of connections are facilitated by different kinds of protocols? Can we see protocols as an analogue to critical stances, such as suspicion vs. wonder? 
+Paradox of control/freedom (Chun and Galloway): Despite the restrictions of protocol, there is a freedom in the possibility of connection. Each node is free to connect to another. This may allow us to rethink the element of control, of disambiguation/fixity required by the computer. If protocols append data with possibility (Galloway), there opens a space to manipulate control, in the site of contact. There is vulnerability at the site of contact (Chun). 
+The "Image of Absence" looks to the networks of connection between what has been lost in the archive, rather than attempt to recover or replace. The archive as a site of action rather than fixity or loss. 
+
+**Media**
+
+* Kittler, Friedrich. *Gramophone, Film, Typewriter*. 1999. Print.
+* Hayles, N. Katherine. *Writing Machines*. 2002. PDF.
+* Kirschenbaum, Matthew. *Mechanisms: New Media and the Forensic Imagination*. 2008. Print.
+* Blanchette, Jean-François, "(A Material History of Bits)[https://onlinelibrary-wiley-com.ezproxy.gc.cuny.edu/doi/epdf/10.1002/asi.21542]." *Journal of the American Society for Information Science and Technology*, no. 62: pp. 1042-1057, 2011. 
+* Hansen, Mark. *Feed-Forward: On The Future of 21st Century Media*. 2014. Epub.
+* Woolf, Virginia, Emily McGinn, Amy Leggette, Matthew Hannah, and Paul Bellew. ["Comparing Marks: A Versioning Edition of Virginia Woolf's 'The Mark on the Wall.'"](http://scholarlyediting.org/2014/editions/intro.markonthewall.html) *Scholarly Editing: The Annual of the Association for Documentary Editing*. Vol. 35, 2014. Web.
+* Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of Elemental Media, 2016.
+
+I keep coming back to this Kittler quote: “Whosoever is able to hear or see the circuits in the synthesized sound of CDs or in the laser storms of a disco finds happiness” (xl-xli).
+
+Many interests here: 
+- The pleasure and sensation in hard media versus "formal" media. 
+- The bit---a symbol of a polarity differential---as a foundation for mediation.
+- Kirschenbaum's framework of formal and forensic materiality. A media archaeologial perspective. 
+- The abstraction of digital media allows us to overlook their sensuality.
+
+**Editing**
+
+* McKenzie, D.F. *Bibliography and the Sociology of Texts*. 1986. Print.
+* Tanselle, Thomas. "A Rationale of Textual Criticism". 1992. PDF.
+* Derrida, Jacques. [“Archive Fever: A Freudian Impression.”](http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf) *Diacritics*. Vol. 25, no. 2. 1995. PDF.
+* McGann, Jerome. *Radiant Textuality: Literature after the World Wide Web*. 2001. Print.
+* Singer, Kate. “(Digital Close Reading: TEI for Teaching Poetic Vocabularies)[https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/].” *The Journal of Interactive Technology and Pedagogy* 3, May 15, 2013.
+* Caughie, Emily Datskou and Rebecca Parker. [“Storm Clouds on the Horizon: Feminist Ontologies and the Problem of Gender,”](https://www.tandfonline.com/doi/full/10.1080/24692921.2018.1505819?src=recsys) *Feminist Modernist Studies*. 1:3, 230-242. 2018. Web. 
+
+Should editing be resorative? Do the unresolvable obstacles or limitations of computation (most convincingly pointed out by McGann and Caughie, to different effects) suggest that, maybe, some things shouldn't be resolved? For Caughie, do we *want* a gender ontology that can be hard coded? Do we want to fix gender so it is legible? How to make things findable and dynamic? Should we expand TEI (Singer)?
+
+M--'s suggestions:
+- What are the usable concepts? What would I be writing about in an article five years from now? What do I want to take with me? 
+- "Reading like a hawk." Do not succumb to the other's argument, do not get lost. 
+- Read *Distant Visions* or the article from *Cultural Analytics*.
+- There will always be something new to read in this field. Don't go chasing these down. But maybe read Nan Z. Da's critique of Cultural Analytics in *Cultural Analytics*. See Liu and Underwood's tweets here. 
+
 ## March 14, 2019
 At the Undercommons
-
 Digital: Editing notes
 
 Questions:
