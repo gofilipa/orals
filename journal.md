@@ -1,4 +1,4 @@
-# Daily Dissertation
+# Orals Journal
 
 
 ## March 15, 2019
