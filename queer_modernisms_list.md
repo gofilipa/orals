@@ -21,10 +21,8 @@ Filipa Calado
 - Field, Michael. *Sight and Song*. 1892.
 
 ## Modernist Auto/biography and Journals
-- Woolf, Virginia. *Orlando*. 1928.
-- Woolf, Virginia. *A Writer's Diary*. 1953.
-- Woolf, Virginia. "A Sketch of the Past". 1939.
-- Stein, Gertrude. "Lifting Belly," 1989 & *Tender Buttons*, 1914.
+- Woolf, Virginia. *Orlando*, 1928 & *A Writer's Diary*, 1953 & "A Sketch of the Past," 1939.
+- Stein, Gertrude. "Lifting Belly," 1989 & *Tender Buttons*, 1914 & *The Autobiography of Alice B. Toklas*, 1933.
 - Barnes, Djuna. *Nightwood*. 1936.
 - Mansfield, Katherine and Margaret Scott. *The Katherine Mansfield Notebooks*. 2002.
 
@@ -37,13 +35,13 @@ Filipa Calado
 - Rosenberg, Jordy. *Confessions of the Fox*. 2018.
 
 ## Specters
+* Schreiner, Olive. *The Story of an African Farm*. 1883.
 * Rachilde. *Monsieur Venus*. 1884.
-* James, Henry. "The Beast in the Jungle." 1886.
+* James, Henry. "The Beast in the Jungle," 1886 & "The Figure in the Carpet," 1896.
 * Freud, Sigmund. *Dora: Fragments of an Analysis of a Case of Hysteria*. 1905.
 * Mansfield, Katherine. "Bliss". 1918.
-* Hall, Radclyffe. *The Well of Loneliness*. 1928.
+* Hall, Radclyffe. "Miss Ogilvy Finds Herself, 1926 & "*The Well of Loneliness*, 1928.
 * Isherwood, Christopher. *Goodbye to Berlin*. 1939.
-* Highsmith, Patricia. *The Price of Salt*. 1952.
 * Radicalesbians. "The Woman-Identified Woman". 1970.
 * Delaney, Samuel. *The Motion of Light in Water*. 1988.
 * Butler, Judith. *Gender Trouble*. 1990.
