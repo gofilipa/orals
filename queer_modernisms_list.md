@@ -13,6 +13,7 @@
 - Sedgwick, Eve Kosofsky. "Shame, Theatricality, and Queer Performativity: Henry James’s The Art of the Novel" & "Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You" from *Touching Feeling: Affect, Pedagogy, Performativity*. 2003.
 - Muñoz, José. *Cruising Utopia: The Then and There of Queer Futurity*. 2009.
 - Love, Heather. *Feeling Backward: Loss and the Politics of Queer History*. 2009.
+- Caldwell, Kelly. "[The Torment of Queer Literature](https://therumpus.net/2018/06/the-torment-of-queer-literature/)," *The Rumpus*. 2018.
 
 ### Protomodernist Aestheticizations
 - Wilde, Oscar. *The Picture of Dorian Gray*. 1890, 1891 & MS.
