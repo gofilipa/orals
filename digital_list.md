@@ -1,4 +1,4 @@
-# Digital Methods and Textualities
+# Digital Methods, Objects, and Metaphors
 
 ## Methods
 * Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. 2007.
@@ -38,5 +38,5 @@
 * Tanselle, Thomas. "A Rationale of Textual Criticism." 1992.
 * Derrida, Jacques. [“Archive Fever: A Freudian Impression.”](http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf) *Diacritics*. Vol. 25, no. 2. 1995.
 * McGann, Jerome. *Radiant Textuality: Literature after the World Wide Web*. 2001.
-* Singer, Kate. “(Digital Close Reading: TEI for Teaching Poetic Vocabularies)[https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/].” *The Journal of Interactive Technology and Pedagogy.* 3, May 15, 2013.
+* Singer, Kate. “[Digital Close Reading: TEI for Teaching Poetic Vocabularies](https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/).” *The Journal of Interactive Technology and Pedagogy.* 3, May 15, 2013.
 * Caughie, Emily Datskou and Rebecca Parker. [“Storm Clouds on the Horizon: Feminist Ontologies and the Problem of Gender.”](https://www.tandfonline.com/doi/full/10.1080/24692921.2018.1505819?src=recsys) *Feminist Modernist Studies*. 1:3, 230-242. 2018. 
