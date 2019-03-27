@@ -19,7 +19,7 @@
 - Pater, Walter. *Studies of the History of the Renaissance*. 1873.
 - Field, Michael. *Sight and Song*. 1892.
 
-### Modernist Self Writing/Referential Fictions
+### Modernist Self-Referential Modes
 - Woolf, Virginia. *Orlando*, 1928 & *A Writer's Diary*, 1953 & "A Sketch of the Past," 1939.
 - Stein, Gertrude. "Lifting Belly," 1989 & *Tender Buttons*, 1914 & *The Autobiography of Alice B. Toklas*, 1933.
 - Barnes, Djuna. *Nightwood*. 1936.
