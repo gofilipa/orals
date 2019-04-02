@@ -44,5 +44,7 @@
 * Radicalesbians. "The Woman-Identified Woman". 1970.
 * Delaney, Samuel. *The Motion of Light in Water*. 1988.
 * Halberstam, J. Jack. *Female Masculinity*. 1998.
-* Ahmed, Sarah. *Feminist Killjoys*. 2010-present.
 * Nelson, Maggie. *Bluets*, 2009 & *The Argonauts*, 2015.
+* Li, Yiyun. *Dear Friend, from My Life I Write to You in Your Life*. 2017.
+* *The Lesbian Herstory Archives*. New York, NY. 1972-present. 
+* Ahmed, Sarah. *Feminist Killjoys*. 2010-present.
