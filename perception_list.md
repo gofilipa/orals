@@ -1,6 +1,6 @@
-*Below is a brainstorm of potential works for my list, "Theories of Consciousness and Perception", organized by various subtopics. The final list will be cut to around 25 works.*
+# Theories of Perception
 
-## Thinking/Feeling: Philosophy
+### Thinking/Feeling: Philosophy
 * Hume, David. *An Enquiry Concerning Human Understanding*, 1748. PDF.
 * William James. Selected essays including “Does ‘Consciousness’ Exist?” (PDF); “Concerning Fechner” (in *Pluralistic Universe*); “The Sentiment of Rationality,” (PDF) “The Place of Affectional Facts in a World of Pure Experience” (PDF), and "Stream of Thought," (Web) circa 1890.
 * Bergson, Henri. *Matter and Memory*, 1896. PDF.
@@ -12,7 +12,7 @@
 * Hayles, Katherine N. *Cognitive  Unconscious*, 2017. PDF.
 * Ramon y Cajal, Santiago. *The Beautiful Brain: The Drawings of Santiago Ramon y Cajal*, 2017. Print.
 
-## Thinking/Feeling: Neuroscience
+### Thinking/Feeling: Neuroscience
 * Varela, Francisco, Evan Thompson, and Eleanor Rosch. *The Embodied Mind: Cognitive Science and Human Experience*, 1991. PDF. 
 * Damasio, Antonio. First chapter from *The Feeling of What Happens*, 2000.
 * Malabou, Catherine. Chapter from *What Should We Do with Our Brain?*, 2008.
@@ -24,32 +24,9 @@
 * Pitts-Taylor, Victoria. *The Brain's Body: Neuroscience and Corporeal Politics*, 2016. 
 * Tougaw, Jason. *The Elusive Brain: Literary Experiments in the Age of Neuroscience*, 2018. 
 
-## Thinking/Feeling: the Posthuman
+### Thinking/Feeling: the Posthuman
 * Turing, Alan. "Computing Machinery and Intelligence". 1950.
 * Haraway, Donna. "A Cyborg Manifesto", in *Simians, Cyborgs and Women: The Reinvention of Nature* 1990.
 * Powers, Richard. *Galatea 2.2* 1995.
 * Hayles, Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, 2000.
 * Wilson, Elizabeth. *Affect and Artificial Intelligence*, 2010.
-
-### Rejects:
-* Newton, Isaac. *Optiks: Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light*, 1704.
-* Delporte, Julie. *Journal: February 2011-October 2012,* 2013.
-* Goethe, Johann Wolfgang. *Theory of Colours*, 1810.
-* Wittgenstein, Ludwig. *Remarks on Colour*, 1950.
-* Robbe-Grillet, Alain. "Jealousy", 1957.
-* Whitehead, Alfred North. *Process and Reality: Gifford Lectures Delivered in the University of Edinburgh During the Session 1927-28*. 1979
-* Searle, John. "Can Computers Think?" 1980.
-* Crary, Jonathan. *Suspensions of Perception: Attention, Spectacle, and Modern Culture*, 2001.
-* Crary, Jonathan. *Techniques of the Observer: On Vision and Modernity in the 19th Century*, 1992.
-* Mitchell, WJT. *What Do Pictures Want?* 2004.
-* Pierce, Charles Sanders. "Man's Glassy Essence" & "Some Consequences of Four Incapacities" & "A Guess at the Riddle". circa 1880-90s.
-* Meillassoux, Quentin. *After Finitude: An Essay on the Necessity of Contingency*, 2010.
-* Harman, Graham. *The Quadruple Object*, 2011.
-* Wajcman, Judy. *TechnoFeminism*, 2004.
-* Carson, Rachel. *Silent Spring*, 1962?.
-* Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production*, 2014.
-* Plato. *The Theatatus*, ~400 BC.
-* Aristotle. *De Anima*, ~350 BC. 
-* Descartes, René. *Discourse on Method and Meditations on First Philosophy*, 1637.
-* Massumi, Brian. *Parables for the Virtual*, 2002.
-* Haraway, Donna. *Staying with the Trouble: Making Kin in the Chthulucene*, 2016.
