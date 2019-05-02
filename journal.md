@@ -1,5 +1,49 @@
 # Orals Journal
 
+## April 17 2019
+
+Meeting with W--:
+
+General Questions: 
+
+- How do the logics and limitations of technology (fail to) reflect the complexities or queer subjectivity or gender identity? “Recognition is not conferred on a subject, but forms that subject” (Butler). 
+- Is it possible to encode or decode queerness? The computer and body as cultural objects. 
+
+Queer Subjects and Affects Questions:
+
+- Methods: *How might we find parallels between Disidentification (Munoz), Besideness or Touching/Feeling (Sedgwick), and Feeling Backward (Love)? And how do these parallels open up the way we analyze “queerness” in literature? How do methods that resist verification or confirmation enhance criticism?* 
+
+- Binaries: *How might binaries --- as unstable, peculiarly charged with the potential for powerful manipulation --- be a productive resource for imagining queer subjectivity? Thinking of gender/sexual binaries in relation to the bit and the neuron.* 
+
+- Temporality: *Comparing Love’s feeling backward to Munoz’s not here yet. Loss and impossibility against anticipation and imagination.* 
+
+- Form: *How do formal qualities and narrative strategies related to self-referential narrative—footnotes, journaling, roman à clef—engage queer subjectivity or affects?*
+
+Feedback:
+- The questions will be much more basic, and text-based. Is the rectum a grave?
+- In answering, be as particular as possible. I will teach what I know, grounding in the text.
+- Digital consciousness and queerness---how is my consciousness being shaped by technology?
+- Joseph Alber's book, the interactions of color. 
+
+
+
+## April 3-11 2019
+
+Synthesizing **Theories of Perception**:
+
+*Where is consicousness **located**? What is the role of the body, the mind, the world in perception?*
+
+*The **autobiographical self and writer**: How do language and writing work with our perceptual processes in order to construct a writing self?* 
+
+*What is the proper role of **reason** in criticism?* *How does approaching reason as a speculation that's been habituated (Hume) or a feeling that things fit together or not (James) change the way we understand empiricial methods?*
+
+*What are the **parallels between the humans and machines** in emotion and memory? How can computers think, feel, remember?*
+
+## March 28, 2019
+
+My own politics---the biggest issue---apathy. Being motivated, being moved. This is a politics about *movement*, It follows both positive and negative movement, not just about despair but about hope.
+
+It is moved by images we cannot touch, places we cannot inhabit, persons we cannot identify. Heather Love and Kelly Caldwell are mobilized by it.  Munoz focuses on the animating principle, this 'surplus' that anticipates an illumination, a utopian futurity. It can feel good to feed bad. It's not about necessarily getting up and doing something, but about attending to movement. 
 
 ## March 15, 2019
 

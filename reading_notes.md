@@ -189,5 +189,131 @@ Caughie, Emily Datskou and Rebecca Parker, “Storm Clouds on the Horizon: Femin
 Can computational models ever capture such taxonomic chaos of gender ontology? AND “Can ontologies ever capture the complex, multi-layered, dynamic nature of gender identities?”
 - We don’t need a solution. We need a way of showing dynamicity while still being findable. The issue with ontology should remain unresolved. That confusion is part of the experience of gender and sexuality in the modernist era. They ended up with a storm cloud, showing clusters of different gender traits over time. 
 
+## Theories of Perception
 
 
+Hume
+- Allows us to see Reason as Speculation, a guess that becomes a habit or custom. Reason builds from the idea or memory which is never as strong as the impression. 
+
+W. James
+- Reason is feeling, sentiment of rationality, of things feeling "right" or of knowing their parts. 
+Language cannot articulate feelings, it can only articulate images, resting places of feelings. But language can cast a halo, a feeling of tendency, which dies in the moment of its full articulation. This is why conjunctions and prepositions are so important.
+
+Merleau-Ponty
+- Our perception/body cannot extricate itself from the world in order to be conscious of that world. It weaves together the real and the imaginary.
+
+Whitehead
+- We perceive through *prehension*, seizing data and speculating upon it; we seize data as potentialized, not as actualized. "At an instant there is nothing."
+Language is always an abstraction, which is why philosophy needs poetry. 
+
+Bergson
+- Memory has to do with storage and access---we recreate sensations from memory. 
+Perception is a site of resistance against stimuli---the body is the surface where light is cast. 
+
+Nagel
+- Our experience provides the basic material for imagination, but only from our perspective. We cannot know what it's like for a bat to be a bat, only imagine what it's like for a human to have wings, sonar, etc. We cannot explain consciousness in objective terms.
+
+Chalmers & Clark
+- The mind extends into the world. Touching objects is thinking with them, incorporating them into a larger cognitive process.
+
+Shaviro
+- Non-correlational sentience---contact at a distance---"things move us, force us to feel them" (8). Rather than try to know things, we feel them. We can know things because we are constantly *becoming* (Whitehead) with them. 
+
+Hayles, Unthought
+- A "planetary cognitive ecology" extends the focus of ethical inquiry from humans to machines that operate with humans within "cognitive assemblages." What if we distinguished cognition by interpretation or choice, rather than free will?
+
+Varela & Thompson
+- Building off Merleau-Ponty---the world isn't pregiven or representational, but enacted. The mind is a cognitive process that links sensory-motor perception to action. 
+
+Damasio
+- There are three layers to consciousness---the protoself, core consciousness, and extended consciousness---through which neural patterns filter upward to feelings. Our feelings are elusive because the higher mind filters out what is going on in the body and brain. 
+- Primal feelings, which arise from an evolutionary imperative in the brain stem, leads to an "autobiographical self" to manage those feelings.
+- Mental processes find parallels in computation:
+    - In memory, the brain stores patterns of feeling and a formula to retrieve them.
+    - Simulations and hallucinations are recircuiting/tricking the brain to make a feeling.
+    - Neurons are electrical and function through polarities.
+
+Malabou
+- The way that contemporary neurosciences characterize brain plasticity as flexible, malleable, adaptable plays into late capitalist ideology that conceptualizes humans as self-controlled, autonomous, accountable in their labor. We should reconcieve brain plasticity as explosive, taking charge of our own malleability and resisting the status quo. 
+
+Noe
+- Our consciousness is not neuronal or embodied, it is enworlded and enacted. This is a reverse-assemblage (Hayles), everything becomes a tool of human agency.
+
+Dahaene
+- We inherit from apes the neuronal structures to process letters.
+- Computational metaphors for reading: Visual uptake (saccedes) and word recognition relies on massive parallel processing, but goes way beyond what OCR can do. 
+
+LeDoux
+- By examining what happens to the prefrontal and parietal cortices during vision, we find them necessary for consciousness. Whatever else is going on, the neocortex is necessary.
+
+Pitts-Taylor
+- Scientific conceptions of the brain are limited---they reify the ideologies of heteronormativity, ableism, racism, disguising them as biological truths. What about bodily differences?
+- There are limits to identification---mirror neurons make misreadings. 
+
+Tougaw
+- Literature is a mode that can usefully speculate beyond the explanatory gap to questions of qualia and selfhood. Brain narratives offer simulations of qualia, allowing us to ask questions that laboratory sciences are not able to answer. 
+- Literature substitutes particularity for reductionism, speculative worlds for hypothesis. Neuronovelists dramatize epistemological questions without answering them, allowing us to feel the porousness of the explanatory gap.
+
+Turing
+- Not asking whether computers can think, but whether computers can perform thinking, function in a way that imitates thought. 
+- Learning compared to programming---the role of ignorance and suprise. 
+
+Haraway
+- In arguing for a new feminist science, that de-naturalizes the natural, Haraway proposes the cyborg, overcoming essentialism and appropriating technological determinism.
+- Cyborg language is the struggle against perfect communication.
+
+Powers
+- Can computers simulate thought? What is the relation between thought and feeling in computation?
+
+Hayles, Posthuman
+- When did information lose its body, and how is this tied to the liberalization of the human subject?
+- Is gender embodied?
+
+Wilson
+- The coassembly of machines and emotion is one of the foundations of the artificial sciences (AI).
+
+## Queer Subjects and Affects
+
+### Protomodernist Aestheticizations
+
+Wilde, Oscar. The Picture of Dorian Gray. 1890, 1891 & MS.
+
+MS & 1890: 
+- Wilde codes or obscures references to homosexuality and homoeroticism---the deep intimacy between Lord Henry and Basil; removes suggestsion in Basil's devotion of fatality and intensity toward Dorian; frames Dorian as an aesthetic rather than erotic object.
+    - The first chapter: 
+        - Suppresses intimacy between Lord Henry and Basil, touching, shaking off hands.
+        - Neutralizes or replaces tense mood or dramatic interactions wit playful banter and laughter---no low voices, switches murmurs for laughs; "look of pain" to "perplexity"; "look" to "glance"; "passion" to "feeling"; "mad" to "reckless".
+        - Tense or confessional tone becomes confusion or exasperation. 
+        - Dorian's abstract allure becomes rerouted toward specific attributes; he becomes an aesthetic rather than erotic object---"beauty" to "personality", or "good looks"; "extraordinary romance" to "curious artistic idolatry". 
+        - Basil's fatal obsession becomes an aesthetic devotion. 
+        - Basil's suffering/jealousy about Dorian is completely cut.
+- Disagreement about the "Moral":
+    - While critics thought that the story celebrates hedonistic lifestyles, Wilde asserts that the story condemns "excess and renunciation", and that this moral was "too obvious". In letters to the editor, defending the his work, Wilde discusses the need to suppress the "obvious moral"---"that all excess, as well as all renunciation, brings about its own punishment" (Letter to St. James Gazette). He says the existence of the moral is an artistic error. 
+    - Wilde then begins the process of revising the novel so that the didactic is subordinated to the aesthetic. He is turned from an erotic to an aesthetic object.
+    - When I was 16 I read this book as an encouragement to hedonism. It made me obsessed with youth and beauty. Now when I reread the book in my twenties I see that the moral is about the dangers of living a closeted lifestyle. Lord Henry is not telling Dorian to be vain, but telling him to embrace his sexual awakening, to not let society shame him into hiding. 
+
+1891: 
+Dorian becomes thoroughly corrupt, the ending rewritten so he appears monstrous and with no remorse. The middle parts, the subplot with James Vane, was added to make Dorian more of a villain.
+
+Pater, Walter. Studies of the History of the Renaissance. 1873.
+- For Pater, criticism is an individual sensation, an 'impressionist' mode, an erotic encounter between subject and object, past and present. He goes against criticism as an act of intellectual apprehension (Ruskin & Arnold). He was looking to Renaissance artists (Botticelli) who in turn looked to Hellenistic ideas to heal the rupture between body and mind. 
+    - The *Studies* an attempt to educate the senses, sensibility to experience aesthetics as an erotic encounter. This ultimately positions the viewer as a recepticle for impressions. Pater's is an *aesthetics of the bottom*. Aesthetic appreciation is being receptive to the forces of beauty emanating from the object. This is an erotic experience. You need to be the bottom, rather than the top (like Arnold and Ruskin, objectivist, intellectual). 
+- His prose is driven and dripping with affect---longing, nostalgia, eroticism. 
+    - "Painful sense of aspiration". 
+    - "penetrate"; "discriminate"; :power of being deeply moved"; "susceptibility"; recepticle"; "curious"; "does it give me pleasure?"
+    - "charm of ascesis: of the austere and serious girding of the loins in youth" (5). A self restraint that makes one more sensitive, more discriminating. 
+- Michaelangelo:
+    - "No one ever expressed more truly than Michaelangelo the notion of inspired sleep, of faces charged with dreams" (44).
+- Leonardo:
+    - "Through his strange veil of sight things reach him so; in no ordinary night or day, but as in faint light of eclipse, or in some brief interval of falling rain at daybreak, or through deep water. And not into nature only; but he plunged also into human personality and became above all a painter of portraits; faces of a modelling more skilful than has been seen before or since, embodied with a reality which almost amounts to illusion on dark air" (63).
+- Botticelli: 
+    - "He paints the story of the goddess of pleasure in other episodes besides that of her birth from the sea, but never without some shadow of death in the grey flesh and wan flowers. He paints Madonnas, but they shrink from the pressure of the divine child, and plead in unmistakable undertones for a warmer, lower humanity" (34).
+        - "The light is indeed cold—mere sunless dawn; but a later painter would have cloyed you with sunshine; and you can see the better for that quietness in the morning air each long promontory, as it slopes down to the water's edge. Men go forth to their labours until the evening; but she is awake before them, and you might think that the sorrow in her face was at the thought of the whole long day of love yet to come....Botticelli meant all that imagery to be altogether pleasurable; and it was partly an incompleteness of resources, inseparable from the art of that time, that subdued and chilled it; but his predilection for minor tones counts also; and what is unmistakable is the sadness with which he has conceived the goddess of pleasure, as the depositary of a great power over the lives of men" (31).
+
+Field, Michael. Sight and Song. 1892. 
+- Written by collaborative poets, Edith Cooper and Katherine Bradley, writing together as Michael Field. Consists of 31 "picture-poems" or ekphrastic exercises, on famous paintings from the Italian Renaissance in galleries across Western Europe. The poems range in form, but seem to all be variations of sonnets.
+- Ekphrastic exercise:
+    - The poems resist and critique Victorian ideologies about women by reclaiming previously objectified female subjectivity. This is proto-queer and proto-feminist. They anticipate feminist/queer strategies of seeing. They play the instability of language against the apparent stability of images; using poetry to "revise" rather than "describe" paintings. Interestingly, contemporary reviews thought the poems too descriptive, that they describe the paintings in too much detail as to rob poetry of its creative spirit. Like a guidebook or catalogue in verse. ("every detail of the picture is most insisted upon").
+- I read these poems not as exercises in subjective withholding (Pater) but as exercises in inquiry, where the viewer interrogates and therefore destabilizes the popular stories and themes they represent. The speaker in the poems imagines new narratives to replace the old ones of female objectivity and passivity. They shift perspectives to overturn implied and normalized ideologies of objectification. A woman's rescue is turned into a man's; a scene of rape is turned into a scene of appreciating sexless beauty. Language unsettles the image, making its narrative assumptions explicit and revising them. We ought to read the poems first then look at the paintings. 
+- Tintoretto's "The Rescue" --- shows Arsinoe fleeing from the seige of Alexandria. In the poem, Arsinoe achieves agency and control over her own naked body, which she uses to stablize the man "rescuing" her who is dazzled by her beauty, "maintains his form"; as well as using nakedness to overcome her physical restraints: "her bondage irks not"; shortening the title to the "rescue" rather than "rescue of arsinoe" makes the object of rescue ambiguous. 
+- Correggio's "Antiope" --- while the painting presents a clear scene of voyeurism, the poem nearly omits Zeus's presence, and casts him as a curious appreciatior of Antiope's beauty rather than a rapist. In removing her cloak, Zeus covers her body with visual admiration. His gaze precludes sexual desire, and she retains the innocence of her sleepy state, which is the main focus of the poem. A visual admiration distinct from sexual desire "love's flambeau dies". Revises a myth of rape to a scene of loveliness, tenderness, admiration: "beauty franchised". 
