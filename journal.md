@@ -1,5 +1,14 @@
 # Orals Journal
 
+## May 1 2019
+
+Questions for my Digital Methods, Objects, and Metaphors list:
+- In literary **criticism** that deploys digital tools, how do empirical methods engage the critic's subjectivity? What is the proper role of sense-making and of the critic's pleasure and proclivity?
+- Does the pleasure of **reading** reside more in the collapsing of the interface between reader and text, or in the excavation of the textual conduit? By interface, I mean the invisible encoding or tagging that appends electronic text, as well as the codes that guide interpretation (Barthes)---do we deconstruct or do we pursue narrative desire/closure (Fisher)?
+- How might we approach **networks** as facilitating freedom/possibility of movement rather than control? How might we regard protocol (Galloway) as possibility, as exploit and vulnerability (Chun) as qualities to be harnessed?
+- Exploring the gaps and slippage between the forensic and formal levels of digital materiality for what is overlooked or obscured. What are the levels of **mediation**, and how do these levels inflect sensation?
+- How does electronic **editing** engage its restorative or conservative imperative in ways that open rather than delimit meaning? Do we want to resolve the obstacles, logics, fixities of computational methods?
+
 ## April 17 2019
 
 Meeting with W--:
@@ -25,11 +34,9 @@ Feedback:
 - Digital consciousness and queerness---how is my consciousness being shaped by technology?
 - Joseph Alber's book, the interactions of color. 
 
-
-
 ## April 3-11 2019
 
-Synthesizing **Theories of Perception**:
+Synthesizing **Theories of Perception**: a draft:
 
 *Where is consicousness **located**? What is the role of the body, the mind, the world in perception?*
 
@@ -116,7 +123,7 @@ Many interests here:
 * Tanselle, Thomas. "A Rationale of Textual Criticism". 1992. PDF.
 * Derrida, Jacques. [“Archive Fever: A Freudian Impression.”](http://artsites.ucsc.edu/sdaniel/230/derrida_archivefever.pdf) *Diacritics*. Vol. 25, no. 2. 1995. PDF.
 * McGann, Jerome. *Radiant Textuality: Literature after the World Wide Web*. 2001. Print.
-* Singer, Kate. “(Digital Close Reading: TEI for Teaching Poetic Vocabularies)[https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/].” *The Journal of Interactive Technology and Pedagogy* 3, May 15, 2013.
+* Singer, Kate. “[Digital Close Reading: TEI for Teaching Poetic Vocabularies](https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/).” *The Journal of Interactive Technology and Pedagogy* 3, May 15, 2013.
 * Caughie, Emily Datskou and Rebecca Parker. [“Storm Clouds on the Horizon: Feminist Ontologies and the Problem of Gender,”](https://www.tandfonline.com/doi/full/10.1080/24692921.2018.1505819?src=recsys) *Feminist Modernist Studies*. 1:3, 230-242. 2018. Web. 
 
 Should editing be resorative? 

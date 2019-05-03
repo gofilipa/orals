@@ -108,6 +108,12 @@ Additionally, the reader’s narrative desire for closure is related to her sexu
 - We are always losing context. We read fragments of what was previously written. There is no guidance, the reader decides how to move at every point. It’s all about agency.
 
 * Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986) *Women & Performance: a Journal of Feminist Theory*. 28:2, 2018. pp. 143-158. Web.
+- Facebook doesn’t care how you identify, but only that your identification is addressable by them. “The move by Facebook allowing for the selection of multiple genders “remain[s] deeply tied to a kind of binary logic, or at the very least a digital one. Put simply, while Facebook gave users more gender options with which to identify, they were still engaging in an act of identification... Here the user has simply been conscripted into enacting the labor of identification once reserved for sophisticated algorithms” (1).
+- New systems enact compulsory identification, they do not care how you identify, they only care that you have an identification that is addressable by them. So, What are queer modes of being within technological systems, modes that refuse the gesture of capture and extraction?
+- The NULL marker in SQL offers a way of becoming that enacts a queer logic that is explicitly situated within the logic of information systems but refuses this gesture of capture and extraction. A “refusal to cohere, to become legible.” “The use of NULL thus marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a “middle” that explicitly marks an indeterminate, incalculable, unknown state of being” (11).
+
+
+
 
 ### Media
 
@@ -181,7 +187,11 @@ In its potentiality, McGann asserts, “Every page, even a blank page… is n-di
     - He clarifies that there is a difference between editorial/archival projects (which treat text as information) and hermeneutic/analytical projects that treat the reading process and interpretation (treat text as recursive aesthetic elements). Though our current tools, SGML/TEI, serve informational purposes, McGann is excited about the potential of XML (TEI, SGML). Hypertext exists before the web.  We need tools that function as prosthetic extensions. 
     - SGML cannot capture poetics, “the recursive patterns that constitute an essential… feature of poetry” (172).
 
-Singer, Kate. “(Digital Close Reading: TEI for Teaching Poetic Vocabularies)[https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/].” *The Journal of Interactive Technology and Pedagogy* 3, May 15, 2013. 
+Singer, Kate. “[Digital Close Reading: TEI for Teaching Poetic Vocabularies](https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/).” *The Journal of Interactive Technology and Pedagogy* 3, May 15, 2013. 
+- Uses encoding as a method of teaching close reading in the English classroom. “The painstaking process of selecting bits of text and wrapping them with tags reframed reading as slow, iterative, and filled with formal choices."
+- Encoding brings us to rethink our strategies/tools for close reading:
+    - “Their decisions about which structures and information to tag very much determine what they value in a document—or at least what should be preserved and codified for other readers.”
+    - “Since TEI is, at heart, an analytical and descriptive language for the humanities, it might encourage us to rethink which labels, categories, and values are essential in contemporary literary criticism and which terms may be unhelpfully ideological in our efforts to analyze literary texts.”
 
 Caughie, Emily Datskou and Rebecca Parker, “Storm Clouds on the Horizon: Feminist Ontologies and the Problem of Gender,” *Feminist Modernist Studies*, 1:3, 230-242, 2018. Web.
 - This is an application of McGann’s comments about incommensurability. The TEI won’t allow them to assign multiple genders to one identity, in order to mark a mid-text gender shift.
