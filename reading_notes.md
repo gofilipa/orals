@@ -24,12 +24,6 @@ Drucker, Johanna. "Humanities Approaches to Graphical Display." *DHQ: Digital Hu
 Felski, Rita. *The Limits of Critique.* 2015. PDF.
 - Felski usefully talks about reading as an affective orientation. It’s not about the way that we read, but about the way that we position ourselves and our desires around texts. She warns that suspicious attitudes toward texts foreclose the possibility for new readings, new thoughts. 
 
-Rockwell, Geoffrey and Stefan Sinclair. *Voyant-Tools*. 2018. Web.
-- Voyant Tools is a web application, developed out of earlier iterations by Stéfan Sinclair (McGill University) and Geoffrey Rockwell (University of Alberta). It functions as a one-stop-shop for text analysis, offering an easy to use interface that processes text in seconds, organizing it into a series of interactive  lists, charts, graphs, and networks. 
-- facilitates:
-    - *Praxis as an Hermeneutic* -- The tool’s primary interface on the homepage obscures its documentation to prioritize experimentation over discourse. The blank text box, accompanied by the mysterious “Reveal” button, prompts exploration, where users are invited to jump in without fully knowing how the tool functions, foregrounding the role that ignorance plays in discovering unforeseen elements about the text. 
-    - *Speculation* -- Using text-analysis in this way inspires new readings by bringing to light neglected, miniscule, or concealed aspects about texts. The defamiliarization of what we think we know leads us to speculate about other possibilities, and experience more active and playful approaches to inquiry.
-
 Piper, Andrew. *Enumerations: Data and Literary Study*, 2018. Print.
 - This shows how distant and close reading can be used together --- Distant reading provides context, or framework, for close reading; in which number becomes a lens, a frame of the quantitative, to approach closer readings and even inform further model building. 
 - Though computation facilitates literary analysis, a number of flawed premises about distance, bigness, or objectivity (which lack a science of generalization), have clouded the ways we approach computation (9).
@@ -74,12 +68,10 @@ Tufekci, Zeynep. *Twitter and Tear Gas: the Power and Fragility of Networked Pro
 - While adhocracy, facilitated by horizontalism, allows for movements to improvise to meet immediate needs, tactical freeze is a potential disruption, an inability to advocate for policies or demands, moves requiring consensus and organization that is antithetical to the horizontal and improvisational structure of adhocracy.  
 In such an environment, information and misinformation glut is a real problem, as the important information gets diluted or obscured. Today, gatekeeping is done by governments, algorithms, platforms.
 
-Klein, Lauren F., "The Image of Absence: Archival Silence, Data Visualization, and James Hemings," in *American Literature*, 85 (4): 661–688, 2013. Web.
-- The way that Klein approaches her work with the invisible or forgotten is useful here. It’s not about recovering what is absent, of making things present in some way. It’s about tracing the activity, the pathways of connection, networks of communication. 
-- “The archive as a site of action rather than as a record of fixity or loss” (665).
-- We let ghosts be ghosts. An image of absence. 
-- Critique of Ramsay --- there are places where meaning and understanding are impossible. The digital is not just about supplementing subjective hermeneutics with shiny new tools, but about changing the way that we think about the archive, and our understanding of the archival record. 
-
+Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986) *Women & Performance: a Journal of Feminist Theory*. 28:2, 2018. pp. 143-158. Web.
+- Facebook doesn’t care how you identify, but only that your identification is addressable by them. “The move by Facebook allowing for the selection of multiple genders “remain[s] deeply tied to a kind of binary logic, or at the very least a digital one. Put simply, while Facebook gave users more gender options with which to identify, they were still engaging in an act of identification... Here the user has simply been conscripted into enacting the labor of identification once reserved for sophisticated algorithms” (1).
+- New systems enact compulsory identification, they do not care how you identify, they only care that you have an identification that is addressable by them. So, What are queer modes of being within technological systems, modes that refuse the gesture of capture and extraction?
+- The NULL marker in SQL offers a way of becoming that enacts a queer logic that is explicitly situated within the logic of information systems but refuses this gesture of capture and extraction. A “refusal to cohere, to become legible.” “The use of NULL thus marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a “middle” that explicitly marks an indeterminate, incalculable, unknown state of being” (11).
 
 ### Language
 
@@ -107,13 +99,11 @@ Additionally, the reader’s narrative desire for closure is related to her sexu
     - FOR example, within the “I have always engaged with impossible comparisons” we click through the arrows to a lexia, “at seven,” which has a link, they'd put their hands on my thigh at the movies, which in fact leads to “Grade two,” another story about the time that an a man fondled the Tracey’s leg at the movies. We have a series of options on this story, and I click the link “the theatre was so dark,” which leads me to a recollection of a night picking fireflies. I click through the arrows, reading through Tracey’s fond and precious memory. The final lexia in this series has a link, “Do they dream about little girls the way I dream about them?” It seems to be referring to the older man (not the fireflies).
 - We are always losing context. We read fragments of what was previously written. There is no guidance, the reader decides how to move at every point. It’s all about agency.
 
-* Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986) *Women & Performance: a Journal of Feminist Theory*. 28:2, 2018. pp. 143-158. Web.
-- Facebook doesn’t care how you identify, but only that your identification is addressable by them. “The move by Facebook allowing for the selection of multiple genders “remain[s] deeply tied to a kind of binary logic, or at the very least a digital one. Put simply, while Facebook gave users more gender options with which to identify, they were still engaging in an act of identification... Here the user has simply been conscripted into enacting the labor of identification once reserved for sophisticated algorithms” (1).
-- New systems enact compulsory identification, they do not care how you identify, they only care that you have an identification that is addressable by them. So, What are queer modes of being within technological systems, modes that refuse the gesture of capture and extraction?
-- The NULL marker in SQL offers a way of becoming that enacts a queer logic that is explicitly situated within the logic of information systems but refuses this gesture of capture and extraction. A “refusal to cohere, to become legible.” “The use of NULL thus marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a “middle” that explicitly marks an indeterminate, incalculable, unknown state of being” (11).
-
-
-
+Rockwell, Geoffrey and Stefan Sinclair. *Voyant-Tools*. 2018. Web.
+- Voyant Tools is a web application, developed out of earlier iterations by Stéfan Sinclair (McGill University) and Geoffrey Rockwell (University of Alberta). It functions as a one-stop-shop for text analysis, offering an easy to use interface that processes text in seconds, organizing it into a series of interactive  lists, charts, graphs, and networks. 
+- facilitates:
+    - *Praxis as an Hermeneutic* -- The tool’s primary interface on the homepage obscures its documentation to prioritize experimentation over discourse. The blank text box, accompanied by the mysterious “Reveal” button, prompts exploration, where users are invited to jump in without fully knowing how the tool functions, foregrounding the role that ignorance plays in discovering unforeseen elements about the text. 
+    - *Speculation* -- Using text-analysis in this way inspires new readings by bringing to light neglected, miniscule, or concealed aspects about texts. The defamiliarization of what we think we know leads us to speculate about other possibilities, and experience more active and playful approaches to inquiry.
 
 ### Media
 
@@ -132,8 +122,6 @@ Hayles, N. Katherine. *Writing Machines*, 2002. PDF.
 - Technotexts are literary works that self-reflexively engage with their own inscription practices. They explore how many levels of text entwine with bodies, a distributed cognitive environment in which reading takes place. 
 - How mediation affects subjectivity, how the interaction between physical and verbal forms construct meaning and therefore, the user/reader. 
 - In *House of Leaves*, the remediated narrator evacuates consciousness as the source of production and replaces it with mediated subjectivities. “Consciousness is no longer the relevant frame but rather consciousness fused with technologies of inscription” (116-117).
-
-Blanchette, Jean-François, "(A Material History of Bits)[https://onlinelibrary-wiley-com.ezproxy.gc.cuny.edu/doi/epdf/10.1002/asi.21542]." *Journal of the American Society for Information Science and Technology*, no. 62: pp. 1042-1057, 2008. 
 
 Kirschenbaum, Matthew. *Mechanisms: New Media and the Forensic Imagination*, 2012. Print.
 - Argues for the heterogeneity of digital data---against the idea that they are transient, uniform, copyable, permanent. This combats “screen essentialism”---the idea that what happens on the screen is independent from hardware. It also resists the notion that digital media are totally different from analogue. In fact, a hard drive and a turntable appear and function with striking similarities. 
@@ -155,7 +143,11 @@ Woolf, Virginia. "Comparing Marks: A Versioning Edition of Virginia Woolf's 'The
 - Hansen’s central intervention on Whitehead’s thought, arguing that, while technology expands the scope for human perception across new sensory environments, it also limits the human’s immediate sensory experience of the world. Mark Hansen offers a provocative framework for thinking about human engagement with twenty-first-century media. It is precisely this exchange between direct and indirect perception that changes my reading of Woolf’s short story. First, on a material level, the edition expands the reader’s access to the text across time, while marginalizing her direct engagement with the witnesses as physical, time-bound objects, as actual books. This tension between the physical and virtual in the edition provokes a further implication on the level of narrative, which complicates Matz’s reading of perceptual unities that drive the narration. Allowing us to expand our perceptual capacities to things we might not directly feel but nonetheless experience, the edition opens up a reading of time as an agent in the story.
 - In contrast to the beginning of the story, which locates the action in the past, the interruption here locates the narration in the present, unfolding action, which then leads to a final statement in the past tense. These ambiguities and mergings signal the important role that time plays in mediating the story itself, and especially, in bringing it to a close.
 
-* Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of Elemental Media, 2016.
+Klein, Lauren F., "The Image of Absence: Archival Silence, Data Visualization, and James Hemings," in *American Literature*, 85 (4): 661–688, 2013. Web.
+- The way that Klein approaches her work with the invisible or forgotten is useful here. It’s not about recovering what is absent, of making things present in some way. It’s about tracing the activity, the pathways of connection, networks of communication. 
+- “The archive as a site of action rather than as a record of fixity or loss” (665).
+- We let ghosts be ghosts. An image of absence. 
+- Critique of Ramsay --- there are places where meaning and understanding are impossible. The digital is not just about supplementing subjective hermeneutics with shiny new tools, but about changing the way that we think about the archive, and our understanding of the archival record. 
 
 ### Editing
 
@@ -200,7 +192,6 @@ Can computational models ever capture such taxonomic chaos of gender ontology? A
 - We don’t need a solution. We need a way of showing dynamicity while still being findable. The issue with ontology should remain unresolved. That confusion is part of the experience of gender and sexuality in the modernist era. They ended up with a storm cloud, showing clusters of different gender traits over time. 
 
 ## Theories of Perception
-
 
 Hume
 - Allows us to see Reason as Speculation, a guess that becomes a habit or custom. Reason builds from the idea or memory which is never as strong as the impression. 
