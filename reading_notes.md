@@ -110,12 +110,12 @@ Rockwell, Geoffrey and Stefan Sinclair. *Voyant-Tools*. 2018. Web.
 Kittler, Friedrich. *Gramophone, Film, Typewriter*, 1999. Print and PDF.
 Asks what if media determined our thought? 
 - Whereas, before the 20th century, media passed through symbolism (written signifier), now it is stored as physical traces in sound waves and light. Soon though, all media will lose its specificity, will become streams of numbers, reduced to surface effects (the interface). 
-For electronic writing specifically, this evacuates the necessity for “hallucination”: 
-- “As long as the book was responsible for all serial data flows, words quivered with sensuality and memory. It was the passion of all reading to hallucinate meaning between lines and letters… once memories and dreams, the dead and ghosts, became technically reproducible, readers and writers no longer needed the powers of hallucination” (10).
-Tells us to find pleasure in the circuits:    
-- “What remains is what media can store and communicate. What counts are not the messages or the content with which they equip so-called souls for the duration of a technological era, but rather (and in strict accordance with McLuhan) their circuits, the very schematism of perceptibility. Whosoever is able to hear or see the circuits in the synthesized sound of CDs or in the laser storms of a disco finds happiness” (xl-xli).
+- For electronic writing specifically, this evacuates the necessity for “hallucination”: 
+    - “As long as the book was responsible for all serial data flows, words quivered with sensuality and memory. It was the passion of all reading to hallucinate meaning between lines and letters… once memories and dreams, the dead and ghosts, became technically reproducible, readers and writers no longer needed the powers of hallucination” (10).
+- Tells us to find pleasure in the circuits:    
+    - “What remains is what media can store and communicate. What counts are not the messages or the content with which they equip so-called souls for the duration of a technological era, but rather (and in strict accordance with McLuhan) their circuits, the very schematism of perceptibility. Whosoever is able to hear or see the circuits in the synthesized sound of CDs or in the laser storms of a disco finds happiness” (xl-xli).
 - We had no way to record orality---which is prior to writing---until after the “monopoly of writing” had ended. Current and prior sense perceptions elided by present technology may in the future come to be recorded and felt. So this opens up possibilities for fiber optics. 
-“What will soon end in the monopoly of bits and fiber optics began with the monopoly of writing” (4). What will come of the monopoly of bits and fiber?
+    - “What will soon end in the monopoly of bits and fiber optics began with the monopoly of writing” (4). What will come of the monopoly of bits and fiber?
 
 Hayles, N. Katherine. *Writing Machines*, 2002. PDF.
 - Remediation --- the idea that media is re-conceived or re-written for electronic formats. The “recycling” of different media formats through electronic media (Bolter and Grusin). 
