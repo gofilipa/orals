@@ -166,7 +166,7 @@ Derrida, Jacques. “Archive Fever: A Freudian Impression.” *Diacritics*, vol.
     - This is the moment proper to the archive. The instant of archivization. “The prosthetic experience of the technical substrate” (22). The impression. 
 
 McKenzie, D.F. *Bibliography and the Sociology of Texts*, 1999. Print.
-- Tanselle expands what is admissible. Bibliography is about the social process of transmission. He critiques positivism of bibliographic methods which are analytical or descriptive, which aim to resolve questions of authorial intention or describe physical features. He says we need to promote new knowledge. We need a history of misreading:
+- McKenzie expands what is admissible. Bibliography is about the social process of transmission. He critiques positivism of bibliographic methods which are analytical or descriptive, which aim to resolve questions of authorial intention or describe physical features. He says we need to promote new knowledge. We need a history of misreading:
     - “Any history of the book---subject as books are to typographic and material change---must be a history of misreadings. This is not so strange as it might sound. Every society rewrites its past, every reader rewrites its texts, and if they have any continuing life at all, at some point every printer redesigns them” (25).
 - The tree structure, the trunk being the ideal text (never realized, only hinted at), and the branches being the florid witnesses. The book is never a single object, but a product of a number of human agencies and mechanical techniques that are historically situated. The trunk is the source, the animating principle (the “text”) that flows into the branches, witnesses. All these witnesses imply an ideal form never fully realized. 
 
