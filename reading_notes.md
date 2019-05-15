@@ -24,12 +24,6 @@ Drucker, Johanna. "Humanities Approaches to Graphical Display." *DHQ: Digital Hu
 Felski, Rita. *The Limits of Critique.* 2015. PDF.
 - Felski usefully talks about reading as an affective orientation. It’s not about the way that we read, but about the way that we position ourselves and our desires around texts. She warns that suspicious attitudes toward texts foreclose the possibility for new readings, new thoughts. 
 
-Rockwell, Geoffrey and Stefan Sinclair. *Voyant-Tools*. 2018. Web.
-- Voyant Tools is a web application, developed out of earlier iterations by Stéfan Sinclair (McGill University) and Geoffrey Rockwell (University of Alberta). It functions as a one-stop-shop for text analysis, offering an easy to use interface that processes text in seconds, organizing it into a series of interactive  lists, charts, graphs, and networks. 
-- facilitates:
-    - *Praxis as an Hermeneutic* -- The tool’s primary interface on the homepage obscures its documentation to prioritize experimentation over discourse. The blank text box, accompanied by the mysterious “Reveal” button, prompts exploration, where users are invited to jump in without fully knowing how the tool functions, foregrounding the role that ignorance plays in discovering unforeseen elements about the text. 
-    - *Speculation* -- Using text-analysis in this way inspires new readings by bringing to light neglected, miniscule, or concealed aspects about texts. The defamiliarization of what we think we know leads us to speculate about other possibilities, and experience more active and playful approaches to inquiry.
-
 Piper, Andrew. *Enumerations: Data and Literary Study*, 2018. Print.
 - This shows how distant and close reading can be used together --- Distant reading provides context, or framework, for close reading; in which number becomes a lens, a frame of the quantitative, to approach closer readings and even inform further model building. 
 - Though computation facilitates literary analysis, a number of flawed premises about distance, bigness, or objectivity (which lack a science of generalization), have clouded the ways we approach computation (9).
@@ -74,12 +68,10 @@ Tufekci, Zeynep. *Twitter and Tear Gas: the Power and Fragility of Networked Pro
 - While adhocracy, facilitated by horizontalism, allows for movements to improvise to meet immediate needs, tactical freeze is a potential disruption, an inability to advocate for policies or demands, moves requiring consensus and organization that is antithetical to the horizontal and improvisational structure of adhocracy.  
 In such an environment, information and misinformation glut is a real problem, as the important information gets diluted or obscured. Today, gatekeeping is done by governments, algorithms, platforms.
 
-Klein, Lauren F., "The Image of Absence: Archival Silence, Data Visualization, and James Hemings," in *American Literature*, 85 (4): 661–688, 2013. Web.
-- The way that Klein approaches her work with the invisible or forgotten is useful here. It’s not about recovering what is absent, of making things present in some way. It’s about tracing the activity, the pathways of connection, networks of communication. 
-- “The archive as a site of action rather than as a record of fixity or loss” (665).
-- We let ghosts be ghosts. An image of absence. 
-- Critique of Ramsay --- there are places where meaning and understanding are impossible. The digital is not just about supplementing subjective hermeneutics with shiny new tools, but about changing the way that we think about the archive, and our understanding of the archival record. 
-
+Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986) *Women & Performance: a Journal of Feminist Theory*. 28:2, 2018. pp. 143-158. Web.
+- Facebook doesn’t care how you identify, but only that your identification is addressable by them. “The move by Facebook allowing for the selection of multiple genders “remain[s] deeply tied to a kind of binary logic, or at the very least a digital one. Put simply, while Facebook gave users more gender options with which to identify, they were still engaging in an act of identification... Here the user has simply been conscripted into enacting the labor of identification once reserved for sophisticated algorithms” (1).
+- New systems enact compulsory identification, they do not care how you identify, they only care that you have an identification that is addressable by them. So, What are queer modes of being within technological systems, modes that refuse the gesture of capture and extraction?
+- The NULL marker in SQL offers a way of becoming that enacts a queer logic that is explicitly situated within the logic of information systems but refuses this gesture of capture and extraction. A “refusal to cohere, to become legible.” “The use of NULL thus marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a “middle” that explicitly marks an indeterminate, incalculable, unknown state of being” (11).
 
 ### Language
 
@@ -107,33 +99,29 @@ Additionally, the reader’s narrative desire for closure is related to her sexu
     - FOR example, within the “I have always engaged with impossible comparisons” we click through the arrows to a lexia, “at seven,” which has a link, they'd put their hands on my thigh at the movies, which in fact leads to “Grade two,” another story about the time that an a man fondled the Tracey’s leg at the movies. We have a series of options on this story, and I click the link “the theatre was so dark,” which leads me to a recollection of a night picking fireflies. I click through the arrows, reading through Tracey’s fond and precious memory. The final lexia in this series has a link, “Do they dream about little girls the way I dream about them?” It seems to be referring to the older man (not the fireflies).
 - We are always losing context. We read fragments of what was previously written. There is no guidance, the reader decides how to move at every point. It’s all about agency.
 
-* Gaboury, Jacob. ["Becoming NULL: Queer Relations in the Excluded Middle."](https://www.tandfonline.com/doi/abs/10.1080/0740770X.2018.1473986) *Women & Performance: a Journal of Feminist Theory*. 28:2, 2018. pp. 143-158. Web.
-- Facebook doesn’t care how you identify, but only that your identification is addressable by them. “The move by Facebook allowing for the selection of multiple genders “remain[s] deeply tied to a kind of binary logic, or at the very least a digital one. Put simply, while Facebook gave users more gender options with which to identify, they were still engaging in an act of identification... Here the user has simply been conscripted into enacting the labor of identification once reserved for sophisticated algorithms” (1).
-- New systems enact compulsory identification, they do not care how you identify, they only care that you have an identification that is addressable by them. So, What are queer modes of being within technological systems, modes that refuse the gesture of capture and extraction?
-- The NULL marker in SQL offers a way of becoming that enacts a queer logic that is explicitly situated within the logic of information systems but refuses this gesture of capture and extraction. A “refusal to cohere, to become legible.” “The use of NULL thus marks an indeterminate mode of being that is at once within and outside, part of and illegible to a discrete system of relations, a “middle” that explicitly marks an indeterminate, incalculable, unknown state of being” (11).
-
-
-
+Rockwell, Geoffrey and Stefan Sinclair. *Voyant-Tools*. 2018. Web.
+- Voyant Tools is a web application, developed out of earlier iterations by Stéfan Sinclair (McGill University) and Geoffrey Rockwell (University of Alberta). It functions as a one-stop-shop for text analysis, offering an easy to use interface that processes text in seconds, organizing it into a series of interactive  lists, charts, graphs, and networks. 
+- facilitates:
+    - *Praxis as an Hermeneutic* -- The tool’s primary interface on the homepage obscures its documentation to prioritize experimentation over discourse. The blank text box, accompanied by the mysterious “Reveal” button, prompts exploration, where users are invited to jump in without fully knowing how the tool functions, foregrounding the role that ignorance plays in discovering unforeseen elements about the text. 
+    - *Speculation* -- Using text-analysis in this way inspires new readings by bringing to light neglected, miniscule, or concealed aspects about texts. The defamiliarization of what we think we know leads us to speculate about other possibilities, and experience more active and playful approaches to inquiry.
 
 ### Media
 
 Kittler, Friedrich. *Gramophone, Film, Typewriter*, 1999. Print and PDF.
 Asks what if media determined our thought? 
 - Whereas, before the 20th century, media passed through symbolism (written signifier), now it is stored as physical traces in sound waves and light. Soon though, all media will lose its specificity, will become streams of numbers, reduced to surface effects (the interface). 
-For electronic writing specifically, this evacuates the necessity for “hallucination”: 
-- “As long as the book was responsible for all serial data flows, words quivered with sensuality and memory. It was the passion of all reading to hallucinate meaning between lines and letters… once memories and dreams, the dead and ghosts, became technically reproducible, readers and writers no longer needed the powers of hallucination” (10).
-Tells us to find pleasure in the circuits:    
-- “What remains is what media can store and communicate. What counts are not the messages or the content with which they equip so-called souls for the duration of a technological era, but rather (and in strict accordance with McLuhan) their circuits, the very schematism of perceptibility. Whosoever is able to hear or see the circuits in the synthesized sound of CDs or in the laser storms of a disco finds happiness” (xl-xli).
+- For electronic writing specifically, this evacuates the necessity for “hallucination”: 
+    - “As long as the book was responsible for all serial data flows, words quivered with sensuality and memory. It was the passion of all reading to hallucinate meaning between lines and letters… once memories and dreams, the dead and ghosts, became technically reproducible, readers and writers no longer needed the powers of hallucination” (10).
+- Tells us to find pleasure in the circuits:    
+    - “What remains is what media can store and communicate. What counts are not the messages or the content with which they equip so-called souls for the duration of a technological era, but rather (and in strict accordance with McLuhan) their circuits, the very schematism of perceptibility. Whosoever is able to hear or see the circuits in the synthesized sound of CDs or in the laser storms of a disco finds happiness” (xl-xli).
 - We had no way to record orality---which is prior to writing---until after the “monopoly of writing” had ended. Current and prior sense perceptions elided by present technology may in the future come to be recorded and felt. So this opens up possibilities for fiber optics. 
-“What will soon end in the monopoly of bits and fiber optics began with the monopoly of writing” (4). What will come of the monopoly of bits and fiber?
+    - “What will soon end in the monopoly of bits and fiber optics began with the monopoly of writing” (4). What will come of the monopoly of bits and fiber?
 
 Hayles, N. Katherine. *Writing Machines*, 2002. PDF.
 - Remediation --- the idea that media is re-conceived or re-written for electronic formats. The “recycling” of different media formats through electronic media (Bolter and Grusin). 
 - Technotexts are literary works that self-reflexively engage with their own inscription practices. They explore how many levels of text entwine with bodies, a distributed cognitive environment in which reading takes place. 
 - How mediation affects subjectivity, how the interaction between physical and verbal forms construct meaning and therefore, the user/reader. 
 - In *House of Leaves*, the remediated narrator evacuates consciousness as the source of production and replaces it with mediated subjectivities. “Consciousness is no longer the relevant frame but rather consciousness fused with technologies of inscription” (116-117).
-
-Blanchette, Jean-François, "(A Material History of Bits)[https://onlinelibrary-wiley-com.ezproxy.gc.cuny.edu/doi/epdf/10.1002/asi.21542]." *Journal of the American Society for Information Science and Technology*, no. 62: pp. 1042-1057, 2008. 
 
 Kirschenbaum, Matthew. *Mechanisms: New Media and the Forensic Imagination*, 2012. Print.
 - Argues for the heterogeneity of digital data---against the idea that they are transient, uniform, copyable, permanent. This combats “screen essentialism”---the idea that what happens on the screen is independent from hardware. It also resists the notion that digital media are totally different from analogue. In fact, a hard drive and a turntable appear and function with striking similarities. 
@@ -155,7 +143,11 @@ Woolf, Virginia. "Comparing Marks: A Versioning Edition of Virginia Woolf's 'The
 - Hansen’s central intervention on Whitehead’s thought, arguing that, while technology expands the scope for human perception across new sensory environments, it also limits the human’s immediate sensory experience of the world. Mark Hansen offers a provocative framework for thinking about human engagement with twenty-first-century media. It is precisely this exchange between direct and indirect perception that changes my reading of Woolf’s short story. First, on a material level, the edition expands the reader’s access to the text across time, while marginalizing her direct engagement with the witnesses as physical, time-bound objects, as actual books. This tension between the physical and virtual in the edition provokes a further implication on the level of narrative, which complicates Matz’s reading of perceptual unities that drive the narration. Allowing us to expand our perceptual capacities to things we might not directly feel but nonetheless experience, the edition opens up a reading of time as an agent in the story.
 - In contrast to the beginning of the story, which locates the action in the past, the interruption here locates the narration in the present, unfolding action, which then leads to a final statement in the past tense. These ambiguities and mergings signal the important role that time plays in mediating the story itself, and especially, in bringing it to a close.
 
-* Peters, John Durham. The Marvelous Clouds: Toward a Philosophy of Elemental Media, 2016.
+Klein, Lauren F., "The Image of Absence: Archival Silence, Data Visualization, and James Hemings," in *American Literature*, 85 (4): 661–688, 2013. Web.
+- The way that Klein approaches her work with the invisible or forgotten is useful here. It’s not about recovering what is absent, of making things present in some way. It’s about tracing the activity, the pathways of connection, networks of communication. 
+- “The archive as a site of action rather than as a record of fixity or loss” (665).
+- We let ghosts be ghosts. An image of absence. 
+- Critique of Ramsay --- there are places where meaning and understanding are impossible. The digital is not just about supplementing subjective hermeneutics with shiny new tools, but about changing the way that we think about the archive, and our understanding of the archival record. 
 
 ### Editing
 
@@ -174,7 +166,7 @@ Derrida, Jacques. “Archive Fever: A Freudian Impression.” *Diacritics*, vol.
     - This is the moment proper to the archive. The instant of archivization. “The prosthetic experience of the technical substrate” (22). The impression. 
 
 McKenzie, D.F. *Bibliography and the Sociology of Texts*, 1999. Print.
-- Tanselle expands what is admissible. Bibliography is about the social process of transmission. He critiques positivism of bibliographic methods which are analytical or descriptive, which aim to resolve questions of authorial intention or describe physical features. He says we need to promote new knowledge. We need a history of misreading:
+- McKenzie expands what is admissible. Bibliography is about the social process of transmission. He critiques positivism of bibliographic methods which are analytical or descriptive, which aim to resolve questions of authorial intention or describe physical features. He says we need to promote new knowledge. We need a history of misreading:
     - “Any history of the book---subject as books are to typographic and material change---must be a history of misreadings. This is not so strange as it might sound. Every society rewrites its past, every reader rewrites its texts, and if they have any continuing life at all, at some point every printer redesigns them” (25).
 - The tree structure, the trunk being the ideal text (never realized, only hinted at), and the branches being the florid witnesses. The book is never a single object, but a product of a number of human agencies and mechanical techniques that are historically situated. The trunk is the source, the animating principle (the “text”) that flows into the branches, witnesses. All these witnesses imply an ideal form never fully realized. 
 
@@ -201,6 +193,7 @@ Can computational models ever capture such taxonomic chaos of gender ontology? A
 
 ## Theories of Perception
 
+<<<<<<< HEAD
 Hume, David. *An Enquiry Concerning Human Understanding*, 1748.
 - Allows us to approach Reason as a kind of Speculation. He essentially describes reason as a guess that becomes a habit or custom. Reason builds from the idea or memory which is never as strong as the impression. 
 - Intervention in Empiricism--following the skepticism of empiricism to its logical end, which is that we only know our sense impressions, nothing more (though he ultimately recommends a middle way that is more practical and psychologically possible). The important thing is that Hume, in my list, inaugurates the absolute reliance on evidence that appears in many of the critics who pursue more "objective", "falsifiable", or "verifiable" modes of criticism. However, as it turns out, according to Hume, the total reliance on evidence then turns reason into something that is speculative---more like guesswork than causal. Our reason assumes causality and connections between sense perceptions. Hume calls this assumption a "custom" or "habit of thought", but I prefer to think of it as a speculation or conjecture. 
@@ -210,6 +203,14 @@ William James. Selected essays including “The Sentiment of Rationality,” (PD
     - The "Aesthetic Principle of Ease" --- finding a unity in chaos or drawing simplicity from complexity creates a pleasurable sensation. Our powers of rationality are thus attributed to a feeling that things make sense. The ignoring of data is the most popular way of attaining unity in thought. 
     - There is also a pleasure in making distinctions, in exploring how things are different from each other. This is "the passion of distinguishing", being acquainted with the parts rather than the whole. 
 - Language cannot articulate feelings, it can only articulate images, resting places of feelings. But language can cast a halo, a feeling of tendency, which dies in the moment of its full articulation. This is why conjunctions and prepositions are so important.
+=======
+Hume
+- Allows us to see Reason as Speculation, a guess that becomes a habit or custom. Reason builds from the idea or memory which is never as strong as the impression. 
+
+W. James
+- Reason is feeling, sentiment of rationality, of things feeling "right" or of knowing their parts. 
+Language cannot articulate feelings, it can only articulate images, resting places of feelings. But language can cast a halo, a feeling of tendency, which dies in the moment of its full articulation. This is why conjunctions and prepositions are so important.
+>>>>>>> 7f3359bcc22f1aa81a8d881c4c9ed23c4fa1a66d
 
 Merleau-Ponty
 - Our perception/body cannot extricate itself from the world in order to be conscious of that world. It weaves together the real and the imaginary.
