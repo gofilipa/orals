@@ -1,6 +1,9 @@
 # Orals Journal
 
-## May 1 2019
+
+## May 3 2019
+
+Meeting with M--:
 
 Questions for my Digital Methods, Objects, and Metaphors list:
 - In literary **criticism** that deploys digital tools, how do empirical methods engage the critic's subjectivity? What is the proper role of sense-making and of the critic's pleasure and proclivity?
@@ -8,6 +11,31 @@ Questions for my Digital Methods, Objects, and Metaphors list:
 - How might we approach **networks** as facilitating freedom/possibility of movement rather than control? How might we regard protocol (Galloway) as possibility, as exploit and vulnerability (Chun) as qualities to be harnessed?
 - Exploring the gaps and slippage between the forensic and formal levels of digital materiality for what is overlooked or obscured. What are the levels of **mediation**, and how do these levels inflect sensation?
 - How does electronic **editing** engage its restorative or conservative imperative in ways that open rather than delimit meaning? Do we want to resolve the obstacles, logics, fixities of computational methods?
+
+I need to review Piper, Tenen, Caughie, Galloway, Kirschenbaum.
+
+Meeting with J--:
+
+Questions (revised) for my Theories of Perception list:
+- Where is consciousness located and enacted? What is the role of body, mind, and environment in consciousness?
+- How do language and writing work with perceptual processes in order to construct a writing self and a reading experience?
+- What is the role of reason in thinking/feeling? How does approaching reason as speculation or feeling change our understanding of empirical methods?
+- How does approaching computers as thinkers/feelers affect the way we understand human capacities of memory and emotion?
+- What are the social, political, and cultural implications for philosophical and neuroscientific theories of consciousness
+
+General advice: 
+- Each answer has two parts: (1) what are some of the influential/interesting perspectives in the debate; (2) how do I assert myself in the debate.
+- Slow down---explain the connections rather than take them for granted. Do not take up too much time explaining the interconnections between lists, but rather signpost or refer. 
+- Do not bury my original thinking. Elaborations. They don’t even know that they’re using metaphors. 
+- Make a rubric of the computational metaphors used by my theorists. Talk about the word demon. Taking an idea from CS and imposing it on the brain, adjusting it for difference. 
+- Neuroscientists position of reinventing the wheel. Think about them as a trajectory. What do the earlier thinkers accomplish and how to later thinkers engage?
+- Affect and Rhetoric first, then details or facts. How well can I think in the moment? The rhetorical mode needs to be manageable. 
+
+Misc. points:
+- Noe is thinking of causes, origins of extended consciousness. He's disrupting the origin story that says it comes from the brain, there is a heavy emphasis on the environment.
+- Damasio's organism, object and image, which undergirds the layers of consciousness.
+
+I need to review Damasio, Dahaene, Pitts-Taylor, Merleau-Ponty, Shaviro. 
 
 ## April 17 2019
 

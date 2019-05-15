@@ -201,13 +201,15 @@ Can computational models ever capture such taxonomic chaos of gender ontology? A
 
 ## Theories of Perception
 
+Hume, David. *An Enquiry Concerning Human Understanding*, 1748.
+- Allows us to approach Reason as a kind of Speculation. He essentially describes reason as a guess that becomes a habit or custom. Reason builds from the idea or memory which is never as strong as the impression. 
+- Intervention in Empiricism--following the skepticism of empiricism to its logical end, which is that we only know our sense impressions, nothing more (though he ultimately recommends a middle way that is more practical and psychologically possible). The important thing is that Hume, in my list, inaugurates the absolute reliance on evidence that appears in many of the critics who pursue more "objective", "falsifiable", or "verifiable" modes of criticism. However, as it turns out, according to Hume, the total reliance on evidence then turns reason into something that is speculative---more like guesswork than causal. Our reason assumes causality and connections between sense perceptions. Hume calls this assumption a "custom" or "habit of thought", but I prefer to think of it as a speculation or conjecture. 
 
-Hume
-- Allows us to see Reason as Speculation, a guess that becomes a habit or custom. Reason builds from the idea or memory which is never as strong as the impression. 
-
-W. James
-- Reason is feeling, sentiment of rationality, of things feeling "right" or of knowing their parts. 
-Language cannot articulate feelings, it can only articulate images, resting places of feelings. But language can cast a halo, a feeling of tendency, which dies in the moment of its full articulation. This is why conjunctions and prepositions are so important.
+William James. Selected essays including “The Sentiment of Rationality,” (PDF) and "Stream of Thought," (Web) circa 1890.
+- Reason is feeling, "sentiment of rationality", of things being either connected or distinguished. 
+    - The "Aesthetic Principle of Ease" --- finding a unity in chaos or drawing simplicity from complexity creates a pleasurable sensation. Our powers of rationality are thus attributed to a feeling that things make sense. The ignoring of data is the most popular way of attaining unity in thought. 
+    - There is also a pleasure in making distinctions, in exploring how things are different from each other. This is "the passion of distinguishing", being acquainted with the parts rather than the whole. 
+- Language cannot articulate feelings, it can only articulate images, resting places of feelings. But language can cast a halo, a feeling of tendency, which dies in the moment of its full articulation. This is why conjunctions and prepositions are so important.
 
 Merleau-Ponty
 - Our perception/body cannot extricate itself from the world in order to be conscious of that world. It weaves together the real and the imaginary.
