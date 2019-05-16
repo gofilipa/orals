@@ -201,7 +201,6 @@ William James. Selected essays including “The Sentiment of Rationality,” (PD
 - Reason is feeling, "sentiment of rationality", of things being either connected or distinguished. 
     - The "Aesthetic Principle of Ease" --- finding a unity in chaos or drawing simplicity from complexity creates a pleasurable sensation. Our powers of rationality are thus attributed to a feeling that things make sense. The ignoring of data is the most popular way of attaining unity in thought. 
     - There is also a pleasure in making distinctions, in exploring how things are different from each other. This is "the passion of distinguishing", being acquainted with the parts rather than the whole. 
-<<<<<<< HEAD
 - Language cannot articulate feelings, it can only articulate images, resting places of feelings. But language can cast a halo, a feeling of tendency, which dies in the moment of its full articulation. This is why grammatical forms such as conjunctions and prepositions are so important.
     - Thought is not chopped up in bits, but it flows. In this flow, there are two kinds of "thought" in the stream of thought---the substantive and the transitive. The substantive are the images, resting places, "sensorial imaginations"; the transitive is the relation between the substantive, the in-betweens, places of flight, which James describes as tendencies, fringes, halos. Our goal is to get from one resting place to the next. We cannot, however, stop to examine the transitive like we can the substantive. Stopping to look at them is either impossible, because we are brought with such force along the thought toward the substantive, or annihilating, because when we stop it, it ceases to be what itself. "If we try to hold fast the feeling of direction, the full presence comes and the feeling of direction is lost" (244-5). All we get are "rapid premonitory perspective views of schemes of thought not yet articulate" (244-5).
     - Language struggles to articulate the experience of the transitive, because in language, our thoughts are tethered to the form of the sentence and to the meaning of words, which names things simply, as if these are not dimly connected to many other things. There are unarticulated affinities surrounding words. 
@@ -223,35 +222,38 @@ Whitehead, Alfred North. Modes of Thought, 1938.
     - This is why philosophy needs poetry. "Language halts behind intuition. The difficulty of philosophy is the expression of what is self-evident. Our understanding outruns the ordinary usages of words. Philosophy is akin to poetry. Philosophy is the endeavour to find a conventional phraseology for the vivid suggestiveness of the poet" (68-9).
     - Single words and single sentences make us think that things can be fully abstracted, which is an illusion.
     - We ought to pay more attention to conjunctions: "the little word 'and' is a nest of ambiguity. It is very astounding how slight has been the analysis of the ambiguities of words expressive of conjunctions. Such words are the death-traps for accuracy of reasoning. Unfortunately, they occur abundantly in sentences, expressed in the most perfect literary form. Thus an admirable literary style is no security for logical consistency" (74).
-
 - Process philosophy, rather than one of being, means that everything we perceive is constantly in motion. Whitehead’s concept of “prehension” exhibits how perception relies on data seizure and speculation. Rather than conceive matter at an instant, Whitehead’s process of prehension attends to data in the unfolding process of pulsation in order to apprehend matter in its complexity, interconnectedness, and possibility. This all occurs in a process, not an instant. The potentiality of data, rather than data at an instant, forms the basis for all thought:
     - “If the universe be interpreted in terms of static actuality, then potentiality vanishes. Everything is just what it is. Succession is mere appearance, rising from the limitation of perception. But if we start with process as fundamental, then the actualities of the present are deriving their characters from the process, and are bestowing their characters upon the future. Immediacy is the realization of the potentialities of the past, and is the storehouse of the potentialities of the future. Hope and fear, joy and disillusion, obtain their meaning from the potentialities essential in the nature of things” (136).
-=======
-- Language cannot articulate feelings, it can only articulate images, resting places of feelings. But language can cast a halo, a feeling of tendency, which dies in the moment of its full articulation. This is why conjunctions and prepositions are so important.
->>>>>>> 5c6b795bee6728d5425d7712009326eca513e4ce
 
-Merleau-Ponty
+Merleau-Ponty, Maurice. The Phenomenology of Perception, 1945.
 - Our perception/body cannot extricate itself from the world in order to be conscious of that world. It weaves together the real and the imaginary.
+- Proposes an extended cognition based on the body.
+    - The objective world doesn't exist apart from our subjective perspective of it. We become part of what we see. 
+    - Our body is "being-toward-the-world", a pre-objective orientation. The subject is relentlessly embroiled in her surroundings, which she cannot extricate herself from. "The real is a closely woven fabric", made up of colors, noises, sensations, daydreams. Our body is in the world, extending toward the world, like a heart in a body. 
 
-Whitehead
-- We perceive through *prehension*, seizing data and speculating upon it; we seize data as potentialized, not as actualized. "At an instant there is nothing."
-Language is always an abstraction, which is why philosophy needs poetry. 
+Nagel, Thomas. "What is it like to be a bat?" 1974. 
+- Against the physical and material reductions of mind to matter. We cannot understand consciousness just by looking at the brain, because it actually involves subjective experiences, qualia, that elude our imaginations and approximations. We are limited to the first person perspective, and cannot broach the third. We cannot know what it's like for a bat to be a bat, only imagine what it's like for a human to have wings, sonar, etc. We cannot explain consciousness in objective terms.
 
-Bergson
-- Memory has to do with storage and access---we recreate sensations from memory. 
-Perception is a site of resistance against stimuli---the body is the surface where light is cast. 
-
-Nagel
-- Our experience provides the basic material for imagination, but only from our perspective. We cannot know what it's like for a bat to be a bat, only imagine what it's like for a human to have wings, sonar, etc. We cannot explain consciousness in objective terms.
-
-Chalmers & Clark
+Chalmers, David and Andy Clark. "The Extended Mind." 1998.
 - The mind extends into the world. Touching objects is thinking with them, incorporating them into a larger cognitive process.
+- Propose the idea of active externalism---that the mind is extended into objects in the environment, which form part of its cognitive processes. 
+- Touching things, manipulating them, referring to them is thinking with them. This engages with literary critics like Eve Sedgwick who propose affective modes of analysis. Our brains manipulate external media in art, books, culture, language. Perhaps we are evolving to do this more efficiently, like our use of language which allows us to make other intellectual developments. 
 
-Shaviro
-- Non-correlational sentience---contact at a distance---"things move us, force us to feel them" (8). Rather than try to know things, we feel them. We can know things because we are constantly *becoming* (Whitehead) with them. 
+Shaviro, Steven. *The Universe of Things: On Speculative Realism*, 2014.
+- Rather than try to know things, we feel them. We can know things because we are constantly *becoming* (Whitehead) with them, and speculating about them. 
+- Another example of extended cognition, here it's called "noncorrelationalist", which is resists the idea of correlationism, descendent from modern philosophy, running through Descartes to Hume, that humans cannot know things outside their own experience of those things. For these thinkers, epistemology (what we know) is privileged to ontology (being). Rather than say we know things, Shaviro says that we feel them---experience is aesthetic rather than epistomologic. Aesthetics marks the place where traditional cognition and correlation are left behind---how we are compelled to speculate---"think outside our own thought". 
+- Though our reality always escapes us, we are nonetheless moved by it. What others experience eludes our correlational schemas, but we can try to approximate through the use of metaphor and simile---"aesthetic semblances". We have to assume panpsychism, that all organisms think (here resembles Nagel, though Nagel has less faith overall in the use of speculation).
+    - "Things move us, force us to feel them" (8).
+    - We have "non-correlational sentience"; our apprehension is a kind of "contact-at-a-distance", not a passive impression or mental intention, but an encounter that changes us, which cannot be connected to the properties of the object. "My encounter runs deeper than anything I can know about it" (118).
+    - This is a kind of autistic thought. Autistics are fully immersed in their worlds. 
+    - "Aesthetics marks the place where cognition and correlation are left behind... aesthetics is the primordial form of experience" (155-56).
 
-Hayles, Unthought
-- A "planetary cognitive ecology" extends the focus of ethical inquiry from humans to machines that operate with humans within "cognitive assemblages." What if we distinguished cognition by interpretation or choice, rather than free will?
+Hayles, Katherine N. Cognitive Unconscious, 2017. 
+- Hayles proposes a "planetary cognitive ecology" extends the focus of ethical inquiry from humans to machines that operate with humans within larger "cognitive assemblages." Distinguishes cognition by interpretation or choice, rather than free will. This allows her to include machines in discussions about ethics. 
+- Cognition involves more than what we consciously recognize, and more than the unconscious. It is "unthought", or thinking without thinking, being in the eternal present and eluding the belated grasp of consciousness. 
+    - There are three layers to consciousness: higher consciousness (abstraction), nonconscious cognition (interpretation and choice), material processes (storms). Nonconscious cognition is inaccessible to our awareness, like neuronal processing, synthesizing sensory inputs so they appear consistent across time and space, finding patterns in chaos, keeping our consciousness from being overwhelmed.
+        --> there are N Dimensions for reading a page. 
+- Our cognition also operates with other technical systems to form "cognitive assemblages"---human technical interactions that operate collectively, in automated technical systems, for example. Often consist of low level processors or sensors which are connected to higher level processors that draw inferences or take actions / decisions. Like the traffic control in LA. 
 
 Varela & Thompson
 - Building off Merleau-Ponty---the world isn't pregiven or representational, but enacted. The mind is a cognitive process that links sensory-motor perception to action. 
