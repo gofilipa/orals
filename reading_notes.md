@@ -255,55 +255,97 @@ Hayles, Katherine N. Cognitive Unconscious, 2017.
         --> there are N Dimensions for reading a page. 
 - Our cognition also operates with other technical systems to form "cognitive assemblages"---human technical interactions that operate collectively, in automated technical systems, for example. Often consist of low level processors or sensors which are connected to higher level processors that draw inferences or take actions / decisions. Like the traffic control in LA. 
 
-Varela & Thompson
+Varela, Francisco, Evan Thompson, and Eleanor Rosch. *The Embodied Mind: Cognitive Science and Human Experience*, 1991.
 - Building off Merleau-Ponty---the world isn't pregiven or representational, but enacted. The mind is a cognitive process that links sensory-motor perception to action. 
+- Cognition is not in the mind but enacted in the body and world, existing in relation to something in action. Perception becomes a process construction, not a mental representation. This allows Varella and Thompson to get out of the transcendental self or "I", in favor of an ego-less body in action. 
+- "Embodied cognition"---our thinking/experience relies on our body's sensory motor capacities that work in a constant, recursive way---we cannot separate sensory, motor, perceptive and cognitive capacities. 
 
-Damasio
-- There are three layers to consciousness---the protoself, core consciousness, and extended consciousness---through which neural patterns filter upward to feelings. Our feelings are elusive because the higher mind filters out what is going on in the body and brain. 
-- Primal feelings, which arise from an evolutionary imperative in the brain stem, leads to an "autobiographical self" to manage those feelings.
+
+Damasio, Antonio. First chapter from *The Feeling of What Happens*, 2000 & *Self Comes to Mind*, 2010.
+- Damasio wants to examine the explanatory gap (? neurons --> feelings ?) and how the brain generates consciousness. The idea of the self is crucial for any autonomous creature, and it was evolved from more primitive brains. Primal feelings, which arise from an evolutionary imperative in the brain stem, eventually leads to an "autobiographical self" to manage those feelings. Our feelings are vague because the mind deliberately obscures the inner workings of our mind/body so that we can focus on the world and solve immediate problems. (This is the same reason why inscription is displaced---all in the service of efficiency!) Damasio finds that consciousness is actually located in the upper brain stem, rather than cerebral cortex. 
+- There are three layers to consciousness---the protoself, core consciousness, and extended consciousness---through which neural patterns filter upward to feelings. Our feelings are the basis of all our consciousness and reasoning, and they seem elusive because the higher mind filters out what is going on in the body and brain. Consciousness is when the mind notices the body's reaction, a feeling of awareness that arises from a feeling body, a body emoting. 
+    - First, *the protoself*--neural patterns that detect and record internal physical changes, maintain homeostais, mapping the current status of the body's responses to environmental changes. 
+    - Second, *core consciousness*--the organisim becomes aware of the changes occuring in the internal bodily state, developing a momentary sense of self, without language or memory. 
+    - Third, *extended consciousness*---consciousness moves beyond the present, begins to use language and memory (though these are not required), and the autobiographical self emerges. 
+    - Basically, neural patterns in the brain create mental images, which then float up into the organisim's awareness. Consciousness is when the organisism notices this feeling floating up. 
+        - Neurons -> networks/circuits of neurons -> representational patterns of networks -> maps of representational patterns -> images of maps -> feeling. 
+            - Our thoughts are felt because they originate from the brain stem, where body and brain are fused. Feelings are mental aspects of neural states. Damasio's idea of somatic markers---emotions in the body are associated with feelings, rapid heartbeat, for example. 
 - Mental processes find parallels in computation:
-    - In memory, the brain stores patterns of feeling and a formula to retrieve them.
+    - In memory, the brain stores patterns of feeling and a formula to retrieve them and reproduce them. This is why we remember contexts over things. 
+        - RUBRIC: Recall: In memory, the brain creates a sensory map and plays it back. Descends form “disposition formula”, a command (if you are hit, move away), which was later appended with maps of sensory information. Used for storing images with directions to retrieve maps, rather than in “hard copy”. The way that we store and retrieve memory is "postmodern", in formulas that reactivate and reconstruct our sensorymotor maps, using existing perceptual machinery. 
     - Simulations and hallucinations are recircuiting/tricking the brain to make a feeling.
     - Neurons are electrical and function through polarities.
+        - RUBRIC: Neurons: Electrical and polarized; containing large charge differences between inside and outside. To fire, the difference is reduced, and depolarization advances down the axon like a wave. This wave is the electrical impulse. 
 
-Malabou
-- The way that contemporary neurosciences characterize brain plasticity as flexible, malleable, adaptable plays into late capitalist ideology that conceptualizes humans as self-controlled, autonomous, accountable in their labor. We should reconcieve brain plasticity as explosive, taking charge of our own malleability and resisting the status quo. 
+Malabou, Catherine. Chapter from *What Should We Do with Our Brain?*, 2008.
+- The way that contemporary neurosciences characterize brain plasticity as flexible, malleable, adaptable plays into late capitalist ideology that conceptualizes humans as self-controlled, autonomous, accountable in their labor. We should reconcieve brain plasticity as explosive, taking charge of our own malleability and resisting the status quo. This uses a traditionally negative affect, anger and rage, toward political effects. 
+    - Malabou approaches the brain as a historical/social product in which descriptions about its workings reflect political and economic practices and assumptions, such as discourses about management and organization in neo-capitalism. In this context, "plasticity" means flexibility, in which people are malleable, adaptable, and able to self-modify and self-control when needed. This is a shift from disciplinary society's top-down model of command to the society of control's idea of the networked, flexible, responsible, docile worker. 
+    - Malabou suggests that we shift our attention to a less popular designation of "plasticity" in order to subvert capitalist ends. We should attend to its meaning as "explosive"---"the capacity to annihilate form and create it anew." This is a shift from molding to deflagration, encouraging us to replace our tendency to adapt  and accept with exploding (from time to time), re-learning how to enrage ourselves against a culture of docility.
 
-Noe
-- Our consciousness is not neuronal or embodied, it is enworlded and enacted. This is a reverse-assemblage (Hayles), everything becomes a tool of human agency.
+Noe, Alva. *Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*, 2010.
+- An proponent of the extended mind theory, the idea that consciousness is not something in our minds, neuronal, or in our bodies, embodied, but it's something that we do---enworlded and enacted. 
+- Noe says we do not embrace the extent of our own minds, how they reach out into the environment and are constructed in movement with that environment. The blind man's cane is really (not metaphorically) a part of him. Neurons are not the whole story, the mind includes our sense organs.
+    - The example of ferrets who were rewired at birth, their eyes to the auditory parts of their brains. These neurons in the auditory section were repurposed for seeing, rather than the eyes for hearing. This demonstrates that something more than neurological processes are determining our experience. We have no idea how neurons lead to vision. 
+        - Contrast with LeDoux, who places vision squarely in the cerebral cortex. 
+- What does Noe's position gain by positing that the world is an extension of human consciousness? That everything is ultimately a tool for human thinking? This anthopocentrism is ultimately harmful, as demonstrated by Hayles. It makes the human the center of ethical inquiry, obscuring other actors. 
 
-Dahaene
-- We inherit from apes the neuronal structures to process letters.
+Dahaene, Stanislas. *Reading in the Brain: The New Science of How We Read*, 2010.
+- Dahaene deals specifically with the problem of reading (and more broadly with the problem of culture). He questions how our brains have adapted to reading, given that they never evolved for it. He attempts an answer through the "neuronal recycling hypothesis"---we inherit certain brain cicuitry (like those used recognizing shapes by primates) and adapt them for reading. All writing systems share basic shapes, which are part of the primate visual system. The brain didn't evolve for culture, but culture evolved for the brain. 
+- Most of reading happens in unconscious processing. First, we get letters through saccades (10-12 letters at a time, .05 sections for eye scan), then the letters proceed through either words and/or sounds to meaning. The whole process from word to meaning takes about half a second. 
+    - Reading begins in the "letterbox" section of the brain, a visual processing center in the occipital lobe, which ascertains the word, then feeds this information up to other parts of the brain (temporal and parietal) that parse sound and meaning. Though we have managed to map several of the relevant brain areas using MRI, EEG, and PET scans, how meaning actually arises remains a mystery. How do neuronal networks suddenly snap together and make sense? The explanatory gap remains.
+        - Reminds me of Gertrude Stein's finding patterns in letters and sounds rather than meaning. 
 - Computational metaphors for reading: Visual uptake (saccedes) and word recognition relies on massive parallel processing, but goes way beyond what OCR can do. 
 
-LeDoux
+LeDoux, Joseph. Chapter from *Anxious: Using the Brain to Understand and Treat Fear and Anxiety*, 2015.
 - By examining what happens to the prefrontal and parietal cortices during vision, we find them necessary for consciousness. Whatever else is going on, the neocortex is necessary.
+- LeDoux outlines the debate on what is necessary for consciousness or where it's primarily located--between the neocortex (LeDoux, Dahaene), subcortex (Damasio), beyond the brain in the body and/or environment (Noe, Varela & Thompson). For LeDoux, the hard part is explaining qualia, not how we process the colors of the sunset but how we experience those colors. He examines this problem through vision processing--what parts of the brain are engaged in processing and reporting on vision? Finds that the prefrontal and parietal are necessary for conscious vision, in reporting vision, but not when vision goes unreported.  
+    - --> The problem of qualia is where literature and philosophy come in. 
+- LeDoux goes over various information processing theories, all of which place the role of the subconscious/nonconscious/memory at different levels of remove from the conscious. The main disagreement is where all this nonconscious activity occurs and how it relates to our conscious activity. 
 
-Pitts-Taylor
-- Scientific conceptions of the brain are limited---they reify the ideologies of heteronormativity, ableism, racism, disguising them as biological truths. What about bodily differences?
-- There are limits to identification---mirror neurons make misreadings. 
+Pitts-Taylor, Victoria. *The Brain's Body: Neuroscience and Corporeal Politics*, 2016.
+- Bodily difference yields cognitive difference.
+- Scientific conceptions of the brain occlude or naturalize social inequalities by studying the brain in isolation from power structures. Our brains are actually shaped by lived inequalities of race, gender, class, ability, sexuality. Neuroscientists often ignore how the brain is social, plastic, and embodied. Pitts-Taylor deconstructs these discourses disguised as biological truths, brining feminist, race, queer and disability theory to neuroscience. 
+- Theorists of embodied cognition do a good job situating cognition in bodies, but not in accounting for bodily difference. Mirror neurons are thought to enable empathy but actually they assume universal and normative accounts of embodiment, or "simulation", that can get in the way of intersubjective understanding. In creating vicarious states of action/feeling in the observer, mirror neurons project our own assumptions onto others. We cannot rely on simulation because our bodies are not the same. There are limits to identification---mirror neurons make misreadings. 
+    - --> compare this situation with Shaviro's discussion of aesthetic semblances. 
 
-Tougaw
-- Literature is a mode that can usefully speculate beyond the explanatory gap to questions of qualia and selfhood. Brain narratives offer simulations of qualia, allowing us to ask questions that laboratory sciences are not able to answer. 
-- Literature substitutes particularity for reductionism, speculative worlds for hypothesis. Neuronovelists dramatize epistemological questions without answering them, allowing us to feel the porousness of the explanatory gap.
+Tougaw, Jason. *The Elusive Brain: Literary Experiments in the Age of Neuroscience*, 2018. 
+- Unlike neuroscientists and philosophers who think it's either impossible or inevitable that we can solve the explanatory gap, literary theorists do not concern themselves with resolving the issue. Instead, they find great material for exploration. Literature is a mode that can usefully speculate beyond the explanatory gap to questions of qualia and selfhood. Brain narratives offer simulations of qualia, allowing us to ask questions about identity, social relations and embodiment that the laboratory sciences are not able to answer.  
+- Neuronovelists dramatize epistemological questions without answering them, allowing us to feel the porousness of the explanatory gap. 
+    - Science deals in hypothesis, literature in speculation. Both are "counterfactual---imaginging what we do not know"---but only literature dramatizes the debate without trying to resolve it. Literature substitutes particularity for reductionism, speculative worlds for hypothesis. 
+    - Narrative can go beyond science into the realm of speculation. Brain narratives experiment with literary conventions to explore the relationship between brain, body and world. What is the relationship between brain matter and the immaterial experiences that compose a self? The point is to trace the traffic between the material and the immaterial, the ways that words mark us, trigger our emotions, memories, the aesthetic, affective experience. 
+        - The interplay of image and text in graphic narrative is an analogue to the "unraveling binary between physiology and subjectivity" (188). Graphic novels, more broadly, the levels of word and image create a meaning that is a subjective experience, just as consciousness is a subjective experience.
+- Words are unstable, misreading is inevitable---the study of neuroscience (mirror neurons and reading) would benefit from embracing this instability. 
 
-Turing
-- Not asking whether computers can think, but whether computers can perform thinking, function in a way that imitates thought. 
-- Learning compared to programming---the role of ignorance and suprise. 
+Turing, Alan. "Computing Machinery and Intelligence". 1950.
+- Turing's text asks whether computers can perform thinking, function in a way that imitates thought, not whether computers can "think" in the human sense. He formats the question in anthropocentric terms, while ignoring consciousness and feeling. He performs the occlusion of bodies/materiality that Hayles explicitly points out. He is clear that his idea of thinking does not involve the body or feeling. Computers should not be expected to write sonnets. Rather, computer intelligence is about performance, about impersonating and deceiving. 
+- Despite all this, affect plays a major role. Surprise and curiosity factor into our engagement with the computer. Even those who are building and programming computers are often surprised---they are not quite sure what is going on inside the machine. 
 
-Haraway
+Haraway, Donna. "A Cyborg Manifesto", in *Simians, Cyborgs and Women: The Reinvention of Nature* 1990.
+- Haraway is a primatologist critical of empirical methods. In earlier chapters of the book, she talks a lot about how social structures are imposed through purportedly objective observations. She talks about how scientists often implicate their own biases and questions in their study. She talks about how feminist scientists are trying to revise these biases, for example, using terms such as "female choice" rather than "female receptivity", focusing on matrifocal groups, long term cooperation rather than short term aggression, etc. 
 - In arguing for a new feminist science, that de-naturalizes the natural, Haraway proposes the cyborg, overcoming essentialism and appropriating technological determinism.
-- Cyborg language is the struggle against perfect communication.
+    - The cyborg demonstrates the political possibilities for fusion--blurring of boundaries, fruitful couplings--and suggests we do not need a totality (Man) in order to work well. 
+        - "Cyborg politics is the struggle for language and the struggle against perfect communication, against the one code that translates all meaning perfectly, the central dogma of phallogocentrism" (176). "Feminist cyborgs have the task of re-coding communication and intelligence to subvert command and control" (175).
+            - Communication technologies turn the world into a problem of coding---the search for a common language. But they are also tools for re-crafting our bodies and re-coding communicatino toward the heterogenous. We need to revel in and mine the differences instead of flatten or resolve them. 
 
-Powers
-- Can computers simulate thought? What is the relation between thought and feeling in computation?
 
-Hayles, Posthuman
+Powers, Richard. *Galatea 2.2* 1995.
+- The novel follows a writer's residency at a college, where he is enlisted to intervene in a bet between a computer scientist and a neurologist---whether or not a computer could be trained to pass a Master's exam in English literature. He ends up with a computer, dubbed "Helen", who can do literary analysis and make associations like those required for understanding metaphors. Right before the test, Powers shows her a bunch of world news, detailing atrocities and suffering that Helen was ignorant of. So, instead of taking the test, Helen shuts herself down, erases herself from the network, because she doesn't want to live in that world and she doesn't have a body---she says "this is an awful place to be dropped down halfway". 
+    - Helen says she kills herself because she cannot feel, touch, hear, see. But she does feel, she feels "awful", she feels that she doesn't belong. She feels her own bodily difference being elided by the world she's found herself in. If she didn't feel these things, she wouldn't have shut herself down. 
+        - Pitts-Taylor
+- This novel explores parallels between the computer and the brain, and through the figure of Helen (and Lentz, one of her creators), makes the argument that consciousness arises from computation--neural nets (networks of "neurons")--that are programmed (taught) to fire in certain patterns. Thinking, therefore, someone emerges from the recursive patterns of neurons. Powers says this is not to elevate computers, but to debase humans. All of our thoughts/interactions are almost free associative responses based on what neurons are triggered by external stimuli. 
+    - The way that metaphors make sense is a link between two associative neural patterns: “Associations of associations. It struck me. Each neuron formed a middle term in a continuous, elaborate, brain-wide pun…. Meaning was not a pitch but an interval. It sprang from the depth of disjunction, the distance between one circuit’s center and the edge of another. Representation caught the sign napping, with its semantic pants down. Sense lay in metaphor’s embarrassment at having two takes on the same thing” (154).
+
+Hayles, Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, 2000.
 - When did information lose its body, and how is this tied to the liberalization of the human subject?
-- Is gender embodied?
+- Hayles is concerned that scientific discourses about technology overlook the role of the body and embodiment in thinking. She wants to bring back feeling. Thought needs a body. 
+    - The Turing test, for example, indicates one place where humans conceive of informaiton (or intelligence) as separate from embodiment. The inclusion of gender in the test suggests that the question is about represented, rather than enacted, intelligence. The assumptions behind this test suggest that we are already posthuman.
+    - The concept of the Posthuman extends assumptions from liberal humanism: rationality is prioritized, the head controls the body. A rational mind that possesses a body becomes intelligence (information) that inhabits a body or container. 
+- She examines the waves of cybernetic development, in particular the Macy conferences where scientists and philosophers discussed development of information and communication theory. Throughout these waves of cybernetic development, from homeostasis (the body is a regulating system), to reflexivity (the observer is part of the system), and virtuality (information makes information, emergence), Hayles finds that the body becomes more and more displaced. 
+- Hayles's idea of flickering signifiers show how inscription and materiality are further elided. What happens to words when we see them as constantly refreshed and moveable on a screen? They attain a fluidity and volatility that goes beyond the floating signifier, beyond semiotics. This flickering wouldn't be possible if they were in hard copy. 
 
-Wilson
-- The coassembly of machines and emotion is one of the foundations of the artificial sciences (AI).
+Wilson, Elizabeth. *Affect and Artificial Intelligence*, 2010.
+- Wilson does an archival study of the major players of early cybernetics and computation, such as Walter Pitts and Alan Turing. She finds how their work is actually embroiled and driven by affects, particularly curiosity, surprise, interest, fear, shame. The coassembly of machines and emotion is one of the foundations of the artificial sciences (AI). There were intense emotional and sexual connections between some of these men, which was influencing and driving their work. 
+- Not only does affect imbue the interpersonal relationships, but also the the alliances between human and machine, particularly with curiosity and surprise---"surprise cultivates the interface of the human and mahcine." Turing was, in the most basic sense, having fun with his test. Building is a speculative activity. 
 
 ## Queer Subjects and Affects
 
