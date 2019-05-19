@@ -262,7 +262,7 @@ Varela, Francisco, Evan Thompson, and Eleanor Rosch. *The Embodied Mind: Cogniti
 
 
 Damasio, Antonio. First chapter from *The Feeling of What Happens*, 2000 & *Self Comes to Mind*, 2010.
-- Damasio wants to examine the explanatory gap (? neurons --> feelings ?) and how the brain generates consciousness. The idea of the self is crucial for any autonomous creature, and it was evolved from more primitive brains. Primal feelings, which arise from an evolutionary imperative in the brain stem, eventually leads to an "autobiographical self" to manage those feelings. Our feelings are vague because the mind deliberately obscures the inner workings of our mind/body so that we can focus on the world and solve immediate problems. (This is the same reason why inscription is displaced---all in the service of efficiency!) Damasio finds that consciousness is actually located in the upper brain stem, rather than cerebral cortex. 
+- Damasio wants to examine the explanatory gap (? neurons --> feelings ?) and how the brain generates consciousness. The idea of the self is crucial for any autonomous creature, and it was evolved from more primitive brains. Primal feelings, which arise from an evolutionary imperative in the brain stem, eventually leads to an "autobiographical self" to manage those feelings. Our feelings are vague because the mind deliberately obscures the inner workings of our mind/body so that we can focus on the world and solve immediate problems. (This is the same reason why machine inscription is displaced---all in the service of efficiency!) Damasio finds that consciousness is actually located in the upper brain stem, rather than cerebral cortex (Dahaene and LeDoux's positions). 
 - There are three layers to consciousness---the protoself, core consciousness, and extended consciousness---through which neural patterns filter upward to feelings. Our feelings are the basis of all our consciousness and reasoning, and they seem elusive because the higher mind filters out what is going on in the body and brain. Consciousness is when the mind notices the body's reaction, a feeling of awareness that arises from a feeling body, a body emoting. 
     - First, *the protoself*--neural patterns that detect and record internal physical changes, maintain homeostais, mapping the current status of the body's responses to environmental changes. 
     - Second, *core consciousness*--the organisim becomes aware of the changes occuring in the internal bodily state, developing a momentary sense of self, without language or memory. 
@@ -349,6 +349,89 @@ Wilson, Elizabeth. *Affect and Artificial Intelligence*, 2010.
 
 ## Queer Subjects and Affects
 
+### Foundations
+
+Cixous, Hélène. "The Laugh of the Medusa." 1975.
+- Cixous issues an ultimatum: that women can either read and choose to stay trapped in their own bodies by a language that does not allow them to express themselves, or they can use the body as a way to communicate. 
+- Speaking and writing are embodied activities---this is what the shaking signifies most precisely. She speaks with her body. You can see the body in woman’s speech. This kind of fear engages composition as an embodied activity.
+    - “Listen to a woman speak at a public gathering (if she hasn’t painfully lost her wind). She doesn’t ‘speak,’ she throws her trembling body forward; she lets go of herself, she flies; all of her passes into her voice, and it’s with her body that she vitally supports the ‘logic’ of her speech. Her flesh speaks true. She lays herself bare. In fact, she physically materializes what she’s thinking; she signifies it with her body. In a certain way she inscribes what she’s saying" (881).
+
+Rich, Adrienne. "When We Dead Awaken: Writing as Revision." 1979.
+- A coming to consciousness for women is a re-vision --- a critical mode of seeing with fresh eyes what has always been circumscribed by men. This act of re-vision brings materials like anger and frustration and awareness. Women need to embrace negative affects as part of their own birthing pains. 
+    - In order to come into their own, women must engage in the negative. These are necessary “birthing pains”. 
+- from "Planatarium: "I have been standing all my life in the / direct path of a battery of signals / the most accurately transmitted most / untranslatable language in the universe / I am a galactic cloud so deep      so invo- / luted that a light wave could take 15 / years to travel through me     And has / taken      I am an instrument in the shape / of a woman trying to translate pulsations / into images      for the relief of the body / and the reconstruction of the mind." (30)
+    - She figures herself as baraged by a series of “signals” that she translates into images. She speaks here using computational metaphors, as if the work of revision involves something like encoding, re-coding, interpreting not only what she experiences but also what she has been taught about her sex. 
+
+Foucault, Michel. *History of Sexuality Vol. 1*. 1984.
+- Foucault lays the groundwork for all subsequent queer theory that wants to mine and engage the ways that repression and “censorship” of sexuality have perpetuated the discourse of sexuality, though through codifications and multiplications of sexuality. He sets the course for critical analysis of discourses pertaining to sexuality. Eve Sedgwick and Judith Butler both depend heavily on him. 
+- Confession as a means of regulating sexuality, and constructing a “truth” about it. “Western man has become a confessing animal” (59). This is reflected in literature which turns from recounting episodes/events to confession: “We have passed form a pleasure to be recounted and heard, centering on the heroic or marvelous narration of ‘trials’ of bravery or sainthood, to a literature ordered according to the infinite task of extracting from the depths of oneself, in between the words, a truth which the very form of the confession holds out like a shimmering mirage” (59).
+    - The mode of confession is part of the discourse of sexual repression in the past 300 years or so. Confession is a means of regulating sex, and turning it into a “truth”, making it a kind of positivist strategy. Confession is scientific evidence. 
+
+Sedgwick, Eve Kosofsky. *The Epistemology of the Closet*. 1990.
+- Sedgwick's agenda is to expose the dependence of a privileged heterosexual position upon the existence of a subordinated homosexual. She examines the “double-bind” of definitional categories, in which self-identification becomes both prohibited and compulsory. How do these sexual categories structure what we know and write about sex? How does the closet appear in 19th-20th century literature? 
+- Her critical method mirrors her politics---she fully embraces the subjectivity of the critic: “A point of the book is not to know how far its insights and projects are generalizable, not to be able to say in advance where the semantic specificity of these issues gives over to (or: itself structures?) the syntax of a “broader” or more abstractable critical project…. The book aims to resist in every way it can the deadening pretended knowingness by which the chisel of modern homo/heterosexual definitional crisis tends, in public discourse, to be hammered most fatally home” (12).
+    - Here she gives away a certain critical openness that will then lead her to her thinking in Touching/Feeling. She isn’t aiming for generalizable or abstract critical theories---she knows that any totalizing theory would be more hurtful than helpful. She’s carving out a space for what she eventually comes to say in T/F about the need to open up possibilities for connection with texts. 
+- The inherent instability of binaries --- How binaries are fundamentally unstable, and lead to the “gendering” of other binaries. Term B is not symmetrical but subordinated to term A, but, term A depends on term B and the oppression of B for its meaning.… These are “sites that are peculiarly densely charged with lasting potentials for powerful manipulation… the double-bind” (10). 
+    - Binaries being peculiarly charged for powerful manipulation. When a communication collapses into a single medium, magnetized poles, high or low voltage, the effects emerging from their relation become highly charged. They are the structuring mechanism from which everything else is interpreted. K talks about the computer’s hard drive being a “signal processor” that only measures differentials from one bit to the next. It is much more efficient to measure a difference in charge rather than presence or absence. So, a whole coding system is based on not substance but changes, differentials, marked across time. 
+- Dorian Gray: abstraction & figuration are strategies for encoding male/male desire--- “the modernist impulse toward abstraction in the first place owes an incalculable part of its energy precisely to the turn-of-the-century male homo/hetero definitional panic… [abstracting the figuration] of the desired male body” (167). We see this directly in the ways that Wilde revises his manuscript, abstracting Dorian into an aesthetic rather than erotic object. 
+- Beast in the Jungle: “I would argue that to the extent that Marcher’s secret has a content, that content is homosexual. Of course, the extent to which Marcher’s secret has anything that could be called a content is, not only dubious, but in the climactic last scene, actively denied… ‘nothing on earth was to have happened’. The denial that the secret has a content---to assert that its content is precisely a lack… oddly, the same gesture as the attribution to it of a compulsory content about heterosexuality… absence of a prescribed heterosexual desire.” (201). “Preterition”; “the love that dare not speak its name”; “John Marcher’s ‘secret’, his ‘singularity’, ‘the great vagueness’, ‘dreadful things… I couldn’t name’” (202-203).
+    - It is only through the creation of the category "homosexual" that the "heterosexual" appeared. Yet the heterosexual category depends on the oppression of the homosexual.
+    - In this story, the main character feels that something terrible is going to happen to him, that this is his destiny. He divulges this terrible fate to a female friend, May Bartram, who eventually dies. At the end of the story, as JM visits her grave, he realizes that the terrible thing is that he missed out on the experience of loving her. Sedgwick says that this terrible thing, JM’s “secret”, is not that he is a homosexual, but that he lacks the heterosexual drive. His secret is precisely a lack because it cannot be defined within the sexual matrix of the story. Being a homosexual is not a viable option for JM. So the the second term in the binary contains a lack, a lack of content, an unnamed secret, and first term in the binary becomes his absent heterosexuality.
+
+Butler, Judith. *Bodies That Matter*. 1993. 
+- Makes the general argument that body’s materiality is discursive, that the “sexed body” is discursively constructed. Materiality is something that emerges from repetition, a kind of performance whereby the powers that be are signified and re-signified endlessly---each act cites whatever social power or understanding about sex. Butler then insists that repetition is the way out of this significatory circle. 
+- We cannot speak outside the powers that structure speech. Subjects are always interpellated by the discourse prior to citing it. Like protocol, discourse determines all connections; in gender, the subject only comes into intelligibility through the matrix of gender. The only freedom that is possible resides within this power of discourse, resignifying it, perhaps through parody or impersonation. 
+- The performance of resignification is a political act. We see this in the word “queer” which has been re-appropriated---something that signified abjectness now means defiance. We can also use repetition to re-signify identification, to the point where it loses its power. We also see this in Paris is Burning, where not only are the male drag performers exposing the superficiality of gender, but also performing care in a way that is feminine, “mothering” “housing” “rearing” each other. 
+- “What would it mean to cite a law to produce it differently?”
+    - What’s most interesting to me is how Butler subscribes to the power system of that which she wants to overturn. She and Foucault (and early Sedgwick) are still firmly within this system. They do not want to go beyond sexual categories/definitions, but to use it to their own purposes. 
+    - This is analogous to a group of readings in my Digital Studies list, the Networks readings. Some of the group want to subvert the network within the confines of that network. Others want to completely defy the network, they reject the terms of the network. Here, Butler is looking for the “exploit”, the way out of the system by using the system’s own rules. Using language and repetition to resignify what sexuality and proper sexual relations are. This is to be contrasted with thinkers like later Sedgwick, Heather Love and Jose Munoz who look for a way out of this system. 
+- “The compulsion to repeat an injury is not necessarily the compulsion to repeat the injury in the same way or to stay fully within the traumatic orbit of that injury. The force of repetition in language may be the paradoxical condition by which a certain agency---not linked to a fiction of the ego as master of circumstance---is derived from the impossibility of choice…. Paris is Burning might be understood as repetitions of hegemonic forms of power that fail to repeat loyally and, in that failure, open possibilities for resignifying the terms of violation against their violating aims” (383).
+
+### Affects
+
+Bersani, Leo. “Is the Rectum a Grave?” 1987.
+- Is the rectum a grave? Here, the rectum is a metaphor that becomes literal in the AIDs crisis. It’s the idea that gay sex will kill you, that people who have gay sex are killers. Bersani takes this metaphor and uses it to his advantage, talking about the power relations inherent in the sex act, where being a top is to have power, and being a bottom to abdicate it, and how gay sex replicates these heterosexual power relations, putting the man in both positions. He says that, in fact, gay sex needs to reconceive the way that the bottom is valued. He proposes that the self-shattering that happens during sex can be a way out of the elevation/seriousness of the self that causes violence. 
+- What if we approached the position of the bottom as one of empowerment? We can be empowered by the continual self-shattering, the calling into question of the seriousness of the subject. Gay sex should continually destroy the self to show us the potential for self-death, the self that is so important it will kill in order to protect its autonomy. The act of gay sex, of self-shattering is thus a practice of nonviolence, which continually brings the proud male to sacrifice. This is jouissance through acesis. 
+- This discussion about the AIDS crisis is a literal manifestation of what Foucault is saying about “sex as science” discourse dominating the discussion about sex. With AIDs, homosexuality becomes a lethal pathology. 
+
+Cvetkovich, Ann. *An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures*. 2003.
+- Asks how we can reclaim some of the most negative and traumatic feelings/experiences into something positive and theraputic. This is about turning something that is traditionally private and pathologized into something public and communitarian---a publicly accessed archive of feelings. It takes trauma out of the medical discourse and into one about public culture. 
+- There is something useful here in her reconception of an archive to include things beyond the library or reserves… it now includes the ephemeral, public acts, and affective experiences. There is an opening up of what we think of as an archive, which resists the constricting positivist imperative of many archives. An archive is an affective experience. We should recognize these feelings in the public sphere. For example, the LHA’s sentimentalization of everyday objects. 
+    - But there is also something harmful here. Trauma is a real medical condition, with real consequences (death) for those who do not seek treatment or downplay its life-threatening effects. We should be careful in extending a definition of trauma that will end up hurting those who are affected by it. People are actually killing themselves due to trauma with their sexuality.
+        - We do not need to move trauma strictly from the medical discourse in order to have a more communitarian, open, and public relationship to it. There are other ways to confront stigma which doesn’t minimize or sterilize it, as Love explores with her notion of “Feeling Backward.” 
+
+Sedgwick, Eve Kosofsky. "Shame, Theatricality, and Queer Performativity: Henry James’s The Art of the Novel" & "Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You" from *Touching Feeling: Affect, Pedagogy, Performativity*. 2003.
+- S wants a critical method that gets outside the logic of repression/prohibition (Foucault) which guides much of suspicious reading. Her fear is that uncovering these histories will not reveal anything good, and in fact closes off other possibilities of relation to text. She is similar here to Rita Felski, Jane Bennett, ...
+- Instead of exposure, she wants to make connections. She’s looking for tools for “nondualistic thought”. She wants to consider the beside rather than the beneath. She is against suspicion, and for affect. Touch is a connection that supersedes dualism (agency & passivity) in favor of feeling. 
+- What if we read Henry James mobilizing shame as a creative resource? For many queer people, shame is a structuring force in their identity. But this doesn’t mean we need to be negative, we can look to the ways that shame unlocks creativity and productivity---to the ways that metaphors are made possible through shame. James’ “blushing”, “flushing” is linked to a fantasy of the skin being entered, or touched by a hand. GLOVE, GAGE, GAGEURE… We can reclaim a negative affect of shame and approach it as a generative force. 
+
+Muñoz, José. *Cruising Utopia: The Then and There of Queer Futurity*. 2009.
+- Present gay politics is either trapped within heteronormative agendas or the death drive. How do we get beyond the stagnancy of straight time and the negativity of anti-relationality? Munoz offers the option of “queer futurity”, the idea that queerness is a “not yet here”, a horizon of possibility with glimpses of utopia. Here, queer collectivity is possible. 
+    - Anti-relationality is not bad, it can be mobilized in a rhythm with collectivity, as Eileen Myles rhythm of contact and separation in Chelsea Girls. 
+- The temporal aspect: Queerness as Futurity: this politics manifests as an affect, a hope or anticipation, a sense of possibility or potentiality. Queerness is an emergent quality. It is not only a projection into the future but also a projection of a certain futurity into the present and past. It is an affective excess, moment of surplus, temporarily glimpsed that allows us to envision fuller more utopian modes of being. It is like a flash of lightning that illuminates a landscape. 
+    - Connections to Hansen’s idea of feed-forward. Especially in the tension between what is lost---the radical revolutionary energies of the 50s and 60s neutralized by neolibralization---and what is gained, this feeling of “not yet”. 
+- The affective aspect: hope, anticipation, fear are anticipatory affects--- “modes of exhilaration which one views a restructured sociality” (7). “Ecstatic time is signaled the moment one feels ecstasy…” (32).
+
+Love, Heather. *Feeling Backward: Loss and the Politics of Queer History*. 2009.
+- Foucault’s reverse discourse turns the shame and pain of the closet into sites of resistance, pride and affirmation. But what about the aspects of queer negativity that cannot be resolved, recuperated, or rescued? Love considers what this dark history contributes to queers in the present. She offers the idea of “feeling backward”, an accounting of the bad feelings, the corporeal and psychic costs of living in homophobic society, in attempt to create a politics in the image of exile, refusal, and failure. 
+    - Love is not trying to redeem these characters, to find the good in them at the end. Instead, she is trying to give them full rien over their own darkness. Stephen Gordon’s character cannot be saved or redeemed by the FTM label. Stuck between underground and emergent homosexual cultures, Walter Pater lives perpetually in a space of withdrawal, refusal, exile. “Pater identifies the moment of recoil as the most delicious moment” (59). 
+- Feeling bad does not necessarily make us want to fight back or act out. But it is necessary for coming to terms with queer experience today. 
+- She wants a method that is touching but not touching, identifying but not fully. Fully identifying would be a consolation, which is not what she’s looking for. She’s looking for the ways that identity unsettles and shatters through a “play of recognitions”.
+    - This is exactly the issue that Kelly Caldwell brings up. Though KC finds this a painful process. Her way out is to look to Munoz’s queer futurity. 
+    - There are queer modes of relationality that do not presume full connections. Love here evokes Shaviro’s “contact-at-a-distance” and Pitts-Taylor’s discussion about mirror neurons. 
+
+Caldwell, Kelly. "[The Torment of Queer Literature](https://therumpus.net/2018/06/the-torment-of-queer-literature/)," *The Rumpus*. 2018.
+- What if only identification possible is one of of shame, stigma and pain? Caldwell explores what we can do with the negative affects of identification and failure of recognition that occur when reading. She puts into play the ideas described by Bersani, Love, and Munoz. In particular she plays out the role of ugly feelings and the pain of identification.  
+- “Self-recognition does not always stabilize identity. Sometimes, it shatters it”
+    - Bersani and Love---the play of recognitions, of self-shattering identities. 
+- “My queerness seemed to have no future, only ever a strangling past”
+    - Feeling Backward. There is no way forward.
+- “Either read a book like Giovanni’s Room at the risk of recognizing David’s denial and repression as my own, or read a book that celebrates queer lives and sex boldly and end up despising my own cowardice.”
+    - The either/or conundrum. Either you will find something painful to identify with, or you will not be able to identify with something positive, which is also painful. 
+    - This expresses the sense of being out of time. Queerness is not quite here, we are not quite those people who we want to be (Munoz). This is at first difficult for the author to accept, but by the end of the essay, she is able to find some solace in the communal desiring for identity, which she feels across the void between her and David. 
+        - “Queer literature isn’t a box to unlock so that it can unlock me. To the very end of Giovanni’s Room, to the morning of Giovanni’s death, David remains untouchable, to Hella and also to Giovanni, who he has resisted “with all [his] strength.” He remains untouchable to himself, too, since he doesn’t know what his “body is searching for.” He is trapped in a mirror that he longs to “crack” and so “be free.” But he is, in a sense, touchable to me, although he doesn’t give me either love or affirmation. We can touch each other because our knowledge of each other isn’t continuous with our knowledge of ourselves. Because we know that we can’t free ourselves or each other. We don’t fully know who we are, or even quite what we are, and we know no final revelation is at hand. Queerness isn’t an identity decipherable in a text. It’s something that I desire, something never fully here, something given to me daily by those who love and name me. It’s a room somewhere slowly filling up with light.”
+
+
 ### Protomodernist Aestheticizations
 
 Wilde, Oscar. The Picture of Dorian Gray. 1890, 1891 & MS.
@@ -370,7 +453,7 @@ MS & 1890:
 1891: 
 Dorian becomes thoroughly corrupt, the ending rewritten so he appears monstrous and with no remorse. The middle parts, the subplot with James Vane, was added to make Dorian more of a villain.
 
-Pater, Walter. Studies of the History of the Renaissance. 1873.
+Pater, Walter. *Studies of the History of the Renaissance*. 1873.
 - For Pater, criticism is an individual sensation, an 'impressionist' mode, an erotic encounter between subject and object, past and present. He goes against criticism as an act of intellectual apprehension (Ruskin & Arnold). He was looking to Renaissance artists (Botticelli) who in turn looked to Hellenistic ideas to heal the rupture between body and mind. 
     - The *Studies* an attempt to educate the senses, sensibility to experience aesthetics as an erotic encounter. This ultimately positions the viewer as a recepticle for impressions. Pater's is an *aesthetics of the bottom*. Aesthetic appreciation is being receptive to the forces of beauty emanating from the object. This is an erotic experience. You need to be the bottom, rather than the top (like Arnold and Ruskin, objectivist, intellectual). 
 - His prose is driven and dripping with affect---longing, nostalgia, eroticism. 
@@ -385,10 +468,69 @@ Pater, Walter. Studies of the History of the Renaissance. 1873.
     - "He paints the story of the goddess of pleasure in other episodes besides that of her birth from the sea, but never without some shadow of death in the grey flesh and wan flowers. He paints Madonnas, but they shrink from the pressure of the divine child, and plead in unmistakable undertones for a warmer, lower humanity" (34).
         - "The light is indeed cold—mere sunless dawn; but a later painter would have cloyed you with sunshine; and you can see the better for that quietness in the morning air each long promontory, as it slopes down to the water's edge. Men go forth to their labours until the evening; but she is awake before them, and you might think that the sorrow in her face was at the thought of the whole long day of love yet to come....Botticelli meant all that imagery to be altogether pleasurable; and it was partly an incompleteness of resources, inseparable from the art of that time, that subdued and chilled it; but his predilection for minor tones counts also; and what is unmistakable is the sadness with which he has conceived the goddess of pleasure, as the depositary of a great power over the lives of men" (31).
 
-Field, Michael. Sight and Song. 1892. 
+Field, Michael. *Sight and Song*. 1892. 
 - Written by collaborative poets, Edith Cooper and Katherine Bradley, writing together as Michael Field. Consists of 31 "picture-poems" or ekphrastic exercises, on famous paintings from the Italian Renaissance in galleries across Western Europe. The poems range in form, but seem to all be variations of sonnets.
 - Ekphrastic exercise:
     - The poems resist and critique Victorian ideologies about women by reclaiming previously objectified female subjectivity. This is proto-queer and proto-feminist. They anticipate feminist/queer strategies of seeing. They play the instability of language against the apparent stability of images; using poetry to "revise" rather than "describe" paintings. Interestingly, contemporary reviews thought the poems too descriptive, that they describe the paintings in too much detail as to rob poetry of its creative spirit. Like a guidebook or catalogue in verse. ("every detail of the picture is most insisted upon").
 - I read these poems not as exercises in subjective withholding (Pater) but as exercises in inquiry, where the viewer interrogates and therefore destabilizes the popular stories and themes they represent. The speaker in the poems imagines new narratives to replace the old ones of female objectivity and passivity. They shift perspectives to overturn implied and normalized ideologies of objectification. A woman's rescue is turned into a man's; a scene of rape is turned into a scene of appreciating sexless beauty. Language unsettles the image, making its narrative assumptions explicit and revising them. We ought to read the poems first then look at the paintings. 
 - Tintoretto's "The Rescue" --- shows Arsinoe fleeing from the seige of Alexandria. In the poem, Arsinoe achieves agency and control over her own naked body, which she uses to stablize the man "rescuing" her who is dazzled by her beauty, "maintains his form"; as well as using nakedness to overcome her physical restraints: "her bondage irks not"; shortening the title to the "rescue" rather than "rescue of arsinoe" makes the object of rescue ambiguous. 
 - Correggio's "Antiope" --- while the painting presents a clear scene of voyeurism, the poem nearly omits Zeus's presence, and casts him as a curious appreciatior of Antiope's beauty rather than a rapist. In removing her cloak, Zeus covers her body with visual admiration. His gaze precludes sexual desire, and she retains the innocence of her sleepy state, which is the main focus of the poem. A visual admiration distinct from sexual desire "love's flambeau dies". Revises a myth of rape to a scene of loveliness, tenderness, admiration: "beauty franchised". 
+
+### Modernist Self-Referential Modes
+
+Woolf, Virginia. *Orlando*, 1928 & *A Writer's Diary*, 1953 & "A Sketch of the Past," 1939.
+
+Stein, Gertrude. "Lifting Belly," 1989 & *Tender Buttons*, 1914 & *The Autobiography of Alice B. Toklas*, 1933.
+
+Barnes, Djuna. *Nightwood*. 1936.
+
+Mansfield, Katherine. "Bliss," 1918 & *The Katherine Mansfield Notebooks*. 2002.
+
+### Postmodern Memoir-esque
+
+Baldwin, James. *Giovanni's Room*. 1956.
+
+Anzaldua, Gloria. *Borderlands/La Frontera: The New Mestiza*. 1987.
+
+Myles, Eileen. *Chelsea Girls*. 1994.
+
+Barthes, Roland. *R.B.*. 1975.
+
+Bechdel, Alison. *Are You My Mother? A Comic Drama*. 2012.
+
+Rosenberg, Jordy. *Confessions of the Fox*. 2018.
+
+### Specters
+
+Schreiner, Olive. *The Story of an African Farm*. 1883.
+- The POV is in 3rd person, but there is a kind of hovering in the narrative voice. The omniscient narrator is very close to the characters, which throws into question "reality". It's in 3rd person but it doesn't feel right. 
+- The main female character is dealing with issues in feminism, living in a patriarchal rural society. The main male character is dealing with metaphysical issues---the problem of evil, of time passing. It puts these concerns on a hierarchy. Even though she is of a higher class than him, she doesn't have the luxury to ask the bigger questions because her autonomy is in dispute. 
+
+Rachilde. *Monsieur Venus*. 1884.
+- Raoule sees Jacques as an androgynous figure with some feminine characteristics which she then amplifies. In one sense, through her merciless abuse, she helps him find a more certain gender identity for himself. By this same process, Raoule subverts her own gender, at one point even being begged by Jacques to just be a man. At the conclusion of the novel, Raoule appears to have no single gender, sometimes appearing as woman and other times as a man.
+- Raoule does not feminize Jacques because she is attracted to women. She has no interest in Marie and she denies being a lesbian to de Raittolbe. She feminizes Jacques because she is using sexuality as an escape from ennui and a tool for her identity. In the name of those causes, she explores and takes pleasure in cross-dressing, humiliation, sadomasochism, and something that falls somewhere between Pygmalionism and necrophilia.
+
+James, Henry. "The Beast in the Jungle," 1886 & "The Figure in the Carpet," 1896.
+- James is known for being a repressed homosexual, and for being read for traces same sex desire. But I did not have this experience with him at all. I had a terrible feeling reading Beast in the Jungle, as an undergrad, without knowing why (I was still dating men). I was also afraid that something great and awful would happen to me. With the Figure in the Carpet, in my first year of grad school, I didn't even realize that the secret was about homosexuality (I was not even close to being fully out) until I went to class and everybody seemed aware and agreed on that point. 
+
+Freud, Sigmund. *Dora: Fragments of an Analysis of a Case of Hysteria*. 1905.
+- 
+
+Hall, Radclyffe. "Miss Ogilvy Finds Herself," 1926 & "*The Well of Loneliness*, 1928.
+
+Isherwood, Christopher. *Goodbye to Berlin*. 1939.
+
+Radicalesbians. "The Woman-Identified Woman". 1970.
+
+Delaney, Samuel. *The Motion of Light in Water*. 1988.
+
+Halberstam, J. Jack. *Female Masculinity*. 1998.
+
+Nelson, Maggie. *Bluets*, 2009 & *The Argonauts*, 2015.
+
+Li, Yiyun. *Dear Friend, from My Life I Write to You in Your Life*. 2017.
+
+*The Lesbian Herstory Archives*. New York, NY. 1972-present. 
+
+Ahmed, Sarah. *Feminist Killjoys*. 2010-present.
+
