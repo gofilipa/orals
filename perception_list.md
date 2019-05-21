@@ -2,7 +2,7 @@
 
 ### Thinking/Feeling: Philosophy
 * Hume, David. *An Enquiry Concerning Human Understanding*, 1748. PDF.
-* William James. Selected essays including “Does ‘Consciousness’ Exist?” (PDF); “Concerning Fechner” (in *Pluralistic Universe*); “The Sentiment of Rationality,” (PDF) “The Place of Affectional Facts in a World of Pure Experience” (PDF), and "Stream of Thought," (Web) circa 1890.
+* William James. Selected essays including “The Sentiment of Rationality,” and "Stream of Thought," circa 1890.
 * Bergson, Henri. *Matter and Memory*, 1896. PDF.
 * Whitehead, Alfred North. *Modes of Thought*, 1938. Print.
 * Merleau-Ponty, Maurice. *The Phenomenology of Perception*, 1945. PDF.
@@ -18,7 +18,7 @@
 * Damasio, Antonio. *Self Comes to Mind*, 2010.
 * Noe, Alva. *Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*, 2010.
 * Dahaene, Stanislas. *Reading in the Brain: The New Science of How We Read*, 2010.
-* LeDoux, Joseph. Chapter from *Anxious: Using the Brain to Understand and Treat Fear and Anxiety*, 2015.
+* LeDoux, Joseph. Chapter 6 from *Anxious: Using the Brain to Understand and Treat Fear and Anxiety*, 2015.
 * Pitts-Taylor, Victoria. *The Brain's Body: Neuroscience and Corporeal Politics*, 2016. 
 * Tougaw, Jason. *The Elusive Brain: Literary Experiments in the Age of Neuroscience*, 2018. 
 

@@ -1,27 +1,83 @@
 # Orals Journal
 
 
-## May 3 2019
+## May 8 2019
 
-Meeting with M--:
+### Foundations --- How do female and queer subjects find voice and/or language within male-dominant and heteronormative discourses? 
+- Cixous, Hélène. "The Laugh of the Medusa." 1975.
+- Rich, Adrienne. "When We Dead Awaken: Writing as Revision." 1979.
+- Foucault, Michel. *History of Sexuality Vol. 1*. 1984.
+- Sedgwick, Eve Kosofsky. *The Epistemology of the Closet*. 1990.
+- Butler, Judith. *Bodies That Matter*. 1993. 
 
-Questions for my Digital Methods, Objects, and Metaphors list:
-- In literary **criticism** that deploys digital tools, how do empirical methods engage the critic's subjectivity? What is the proper role of sense-making and of the critic's pleasure and proclivity?
-- Does the pleasure of **reading** reside more in the collapsing of the interface between reader and text, or in the excavation of the textual conduit? By interface, I mean the invisible encoding or tagging that appends electronic text, as well as the codes that guide interpretation (Barthes)---do we deconstruct or do we pursue narrative desire/closure (Fisher)?
-- How might we approach **networks** as facilitating freedom/possibility of movement rather than control? How might we regard protocol (Galloway) as possibility, as exploit and vulnerability (Chun) as qualities to be harnessed?
-- Exploring the gaps and slippage between the forensic and formal levels of digital materiality for what is overlooked or obscured. What are the levels of **mediation**, and how do these levels inflect sensation?
-- How does electronic **editing** engage its restorative or conservative imperative in ways that open rather than delimit meaning? Do we want to resolve the obstacles, logics, fixities of computational methods?
+### Affects --- What do we do with bad feelings?
+- Bersani, Leo. “Is the Rectum a Grave?” 1987.
+- Cvetkovich, Ann. *An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures*. 2003.
+- Sedgwick, Eve Kosofsky. "Shame, Theatricality, and Queer Performativity: Henry James’s The Art of the Novel" & "Paranoid Reading and Reparative Reading, or, You’re So Paranoid, You Probably Think This Essay Is About You" from *Touching Feeling: Affect, Pedagogy, Performativity*. 2003.
+- Muñoz, José. *Cruising Utopia: The Then and There of Queer Futurity*. 2009.
+- Love, Heather. *Feeling Backward: Loss and the Politics of Queer History*. 2009.
+- Caldwell, Kelly. "[The Torment of Queer Literature](https://therumpus.net/2018/06/the-torment-of-queer-literature/)," *The Rumpus*. 2018.
+
+### Protomodernist Aestheticizations --- How is queer/feminist resistence encoded into language that doesn't explicitly reference it? 
+- Wilde, Oscar. *The Picture of Dorian Gray*. 1890, 1891 & MS.
+- Pater, Walter. *Studies of the History of the Renaissance*. 1873.
+- Field, Michael. *Sight and Song*. 1892.
+
+### Modernist Self-Referential Modes --- How might formal strategies developed by modernist writers engage cognitive/affective/embodied processes?
+- Woolf, Virginia. *Orlando*, 1928 & *A Writer's Diary*, 1953 & "A Sketch of the Past," 1939.
+- Stein, Gertrude. "Lifting Belly," 1989 & *Tender Buttons*, 1914 & *The Autobiography of Alice B. Toklas*, 1933.
+- Barnes, Djuna. *Nightwood*. 1936.
+- Mansfield, Katherine. "Bliss," 1918 & *The Katherine Mansfield Notebooks*. 2002.
+
+### Postmodern Memoir-esque --- What do postmoderns writers approach the differences bewteen fiction and memoir?
+- Baldwin, James. *Giovanni's Room*. 1956.
+- Anzaldua, Gloria. *Borderlands/La Frontera: The New Mestiza*. 1987.
+- Myles, Eileen. *Chelsea Girls*. 1994.
+- Barthes, Roland. *R.B.*. 1975.
+- Bechdel, Alison. *Are You My Mother? A Comic Drama*. 2012.
+- Rosenberg, Jordy. *Confessions of the Fox*. 2018.
+
+### Specters --- How do each of these affect me?
+* Schreiner, Olive. *The Story of an African Farm*. 1883.
+* Rachilde. *Monsieur Venus*. 1884.
+* James, Henry. "The Beast in the Jungle," 1886 & "The Figure in the Carpet," 1896.
+* Freud, Sigmund. *Dora: Fragments of an Analysis of a Case of Hysteria*. 1905.
+* Hall, Radclyffe. "Miss Ogilvy Finds Herself," 1926 & "*The Well of Loneliness*, 1928.
+* Isherwood, Christopher. *Goodbye to Berlin*. 1939.
+* Radicalesbians. "The Woman-Identified Woman". 1970.
+* Delaney, Samuel. *The Motion of Light in Water*. 1988.
+* Halberstam, J. Jack. *Female Masculinity*. 1998.
+* Nelson, Maggie. *Bluets*, 2009 & *The Argonauts*, 2015.
+* Li, Yiyun. *Dear Friend, from My Life I Write to You in Your Life*. 2017.
+* *The Lesbian Herstory Archives*. New York, NY. 1972-present. 
+* Ahmed, Sarah. *Feminist Killjoys*. 2010-present.
+
+## May 3, 17 2019
+
+Meetings with M--:
+
+Revised Questions for my Digital Methods, Objects, and Metaphors list:
+- To what extent do digital **methods** engage positivist or subjective modes of literary criticism? How do these methods address the drive toward objectivity facilitated by many digital tools?
+    - Original: In literary criticism that deploys digital tools, how do empirical methods engage the critic's subjectivity? What is the proper role of sense-making and of the critic's pleasure and proclivity?
+-  How do critics over time approach the effects of **coding and encoding** language on the reading experience? In other words, how do the invisible encoding or tagging that appends electronic text and the interpretive codes that guide literary analysis and deconstruction change our understanding of reading over time?
+    - Does the pleasure of reading reside more in the collapsing of the interface between reader and text, or in the excavation of the textual conduit? By interface, I mean the invisible encoding or tagging that appends electronic text, as well as the codes that guide interpretation (Barthes)---do we deconstruct or do we pursue narrative desire/closure (Fisher)?
+- How might we approach **networks** as facilitating freedom rather than control? What kind of absences, exploits, and vulnerabilities create spaces for protest and resistance to network control?
+    - How might we approach networks as facilitating freedom/possibility of movement rather than control? How might we regard protocol (Galloway) as possibility, as exploit and vulnerability (Chun) as qualities to be harnessed?
+- How do critics of new media posit the process of mediation, and what are the implications of these different approaches upon sensation? 
+    - Exploring the gaps and slippage between the forensic and formal levels of digital materiality for what is overlooked or obscured. What are the levels of mediation, and how do these levels inflect sensation?
+- How do editorial practices evolve over time to respond to advances in electronic editing? And how do digital environments complicate editorial imperatives to restore, preserve, or fix textual components? 
+    - How does electronic editing engage its restorative or conservative imperative in ways that open rather than delimit meaning? Do we want to resolve the obstacles, logics, fixities of computational methods?
 
 I need to review Piper, Tenen, Caughie, Galloway, Kirschenbaum.
 
 Meeting with J--:
 
 Questions (revised) for my Theories of Perception list:
-- Where is consciousness located and enacted? What is the role of body, mind, and environment in consciousness?
-- How do language and writing work with perceptual processes in order to construct a writing self and a reading experience?
-- What is the role of reason in thinking/feeling? How does approaching reason as speculation or feeling change our understanding of empirical methods?
-- How does approaching computers as thinkers/feelers affect the way we understand human capacities of memory and emotion?
-- What are the social, political, and cultural implications for philosophical and neuroscientific theories of consciousness
+- Where is consciousness **located and enacted**? What is the role of body, mind, and environment in consciousness?
+- How do **language and writing** work with perceptual processes in order to construct a writing self and a reading experience?
+- What is the role of **reason** in thinking/feeling? How does approaching reason as speculation or feeling change our understanding of empirical methods?
+- How does approaching computers as thinkers/feelers affect the way we understand human capacities of **memory and emotion**?
+- What are the **social, political, and cultural implications** for philosophical and neuroscientific theories of consciousness
 
 General advice: 
 - Each answer has two parts: (1) what are some of the influential/interesting perspectives in the debate; (2) how do I assert myself in the debate.
