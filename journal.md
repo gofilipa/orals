@@ -1,5 +1,89 @@
 # Orals Journal
 
+## July 14 2019
+
+Been working on an outline of sorts. While creating this has been exilhirating, my approach toward structure perpetuates a scholarly tradition (the monograph) that I've found stale, intimidating, exclusive. Nonetheless here it is:
+
+Intro ------- Queer Machines : laying out the associations between human and machine. 
+- the cyborg: parallels between cognition and computation
+- focus on life writing
+- toward a queer digital humanities
+    - touching without touching (Love, Sedgwick)
+    - imagining what we don't know (McGann)
+    - speculative criticism (Drucker & Ramsay)
+    - close reading: Caitlin Fisher's *These Waves of Girls*
+
+First ------- Encoding / Editing : the instability of queer subjects & limitations of computation 
+- TEI: how do the logics / limits of computation encode subjectivity? (Klein, Caughie, Singer)
+- Bechdel & Rosenberg: queer subjectivity in postmodern memoir
+- encoding *Dorian Gray* and Baldwin (?)
+
+Second ------- Annotation / Pedagogy : 
+- annotating affect
+- Barnes, Woolf & cognition
+
+Third ------- Speculation / Method : 
+- *Voyant-Tools*: imagining what we don't know
+- *The Lesbian Herstory Archive*: against positivism
+- queer temporality: feeling backward, not here yet, feed-forward
+
+Conclusion / Epilogue ?
+
+Interludes on... 
+- poetic computation ?
+- net archives ?
+
+## July 7 2019
+
+Main research question: how do digital tools engage queer embodiment/subjectivities/affects?
+
+My intro---the cyborg---a human-computer engagement, biological-mechanical intersections (i.e. neurons and transistors). The human is a creative machine, a thinking/feeling machine. The three chapters (encoding, annotation, methodology) build out from this foundational metaphor. Thinking about affect opens up the connections between topics. There are many ways to engage affect with technology: annotation, encoding, text analysis.
+
+Objects of study:
+- Queer Memoir and Life Writing: Wilde, Baldwin, Barthes; Woolf, Barnes, Stein; Myles, Rosenberg, Bechdel, Caitlin Fisher... 
+- Alternative Archives and Archival Practices: LHA...
+- Queer Histories of Computing: Jacob Gaboury, Lynn Conway...
+
+Summer Reading List:
+- bell hooks: *Teaching to Transgress*
+- Cathy J. Cohen: "Punks, Bulldaggers, and Welfare Queens: The Radical Potential of Queer Politics"
+- Sadie Plant: *Zeros + Ones: Digital Women and the New Technoculture*
+- Yasha Levine: *Surveillance Valley: The Secret Military History of the Internet*
+- N. Katherine Hayles: *Electronic Literature: New Horizons for the Literary*
+- Jacob Gaboury: "A Queer History of Computing"
+
+## July 2 2019
+
+The goal of this summer is to write my prospectus. First I'm going to go over my notes to make a list of what is salient: 
+
+- June 30, 2018: How the digital can stimulate feelings about literature. How tools/methods/media engage feeling/affect/sensation. Attention to the reading process, reader response theory. 
+- July 2, 2018: Stakes---Pedagogy via attention to affect; Queer Theory aligning with Digital Studies around debates on methodology/reading styles, suspicious vs speculative reading.
+- July 9, 2018: *Queer* research question: What is the role of "queer" in affect, identity, method? Autobiography research question: how does the distinction between nonfiction and memoir and fiction matter? Orlando as a fulcrum... 
+- July 24, 2018: Queer *Affects*: many of the QS&A books are depressing, angry, with a sense of being out of time. 
+- July 26, 2018: Books I'm most excited about: Galloways *Protocol*, Ramsay's *Reading Machines*, Fisher's *These Waves of Girls*. My method is to find things that are embedded, not from a position of suspicion, but of wonder. Speculation.
+- October 20, 2018: Dissertation not as impending revelation but immanent project. What do I already like, where have I already done work? Histories of composition. Notebooks, journals. The potential of form. The first draft. 
+- October 24, 2018: Topic of autobiography: the role of identity, speaking subject to an audience, the difficulty of categorizing and decoding/encoding queer identity, reader response,the torment of queer literature. 
+- November 7, 2018: Research question: what does looking at computation reveal about perception? How do digital tools engage or play with these connections? Understanding how perception works on a biological level will help to see how humans can engage with machines, how reading can be embodied.
+- November 28, 2018: *Stone Butch Blues* must go because it is to raw, unformed. Not literary enough for what I want to do. (Also the fear of identity runs too strong and I'm not sure I can handle it.)
+- December 3, 2018: Research question: How do the limitations, abstractions of computation struggle or fail to mark/encode/engage/register the complexities of embodied experience?
+- December 8, 2018: See: Lauren Klein's "Data Feminism", Laura Mandell on TEI and binaries; Gaboury on Queer OS. 
+- December 19, 2018: See: cognitive-adjacent literary criticism--Joseph Allen Boone and Gillian Beer. 
+- December 21, 2018: first meeting with J--: Pitts-Taylor, the feminist perspective of neuroscience; Siri Husvedt, the shaking woman, Tougaw explores implications.
+- February 16, 2019: the stakes---overlooking the essential motive and emotive qualities of literature. 
+- April 17, 2019: Sedgwick and Butler: identification, domain of abjection, binaries and double binds. Love: how do we make connections without resolving or delimiting the object?
+- May 7, 2019: Isn't the fractured sign (Tenen) an opportunity for play?
+- May 8, 2019: What is the difference between Myles and Bechdel in their approach toward fiction vs. memoir? Ordering and source material. Woolf's attempt at the core self (Damasio); Stein's deconstruction of reading/writing process (Dahaene); Barnes's layering of sense data, exploring the transitive and substative (James). 
+- May 21, 2019: Language, consciousness/perception, and media are all characterized by a displacement between what we see/experience and how it works/functions. The explanatory gap, forensic vs formal materiality, the instability of the signifier. This displacement creates a space for my speculations. 
+
+## June 25 2019
+
+It's been a while. I've taken  a much needed month and a half break after my exam---during which I traveled (Upstate NY, British Columbia, Washington DC and now Portugal for my sister's wedding). During the past several weeks I've allowed myself to process how the exam went, the way I studied for it, and where I am now. 
+
+The exam itself went extremely well. Much better than I anticipated and practiced. I was prepared, articulate, and resourceful. I was continually surprised at my recall and the way I spoke. My committee said the nicest things---that I had clearly developed a way of thinking and speaking, a technique for handling ideas (J-- called it 'architectural'), and that the next step is to trust myself to apply this technique off the cuff. That was the only criticism (really an encouragement), to be spontaneous, allowing myself to go beyond what I have already practiced and thought out, working out my ideas as I speak them. Of course their criticism makes sense. It was to avoid that exact situation that I overprepared. 
+
+Although the exam went very well, almost everthing leading up to it was terrible. I don't know how I allowed my anxiety to progress like that. From January to May I was constantly working. Every moment had to be accounted for. Things got worse over March and April. Everything else in my life became secondary--my teaching, my relationships, my other work. With teaching, I had my best semester so far, perhaps because I was forced to be more improvisational and self-reliant than other semesters when I overprepared. Somehow I also managed to maintain a romantic relationship, though it was difficult. The weeks leading up to the exam I was almost always scared and prone to panic. My biggest fear is that I wouldn't be able to remember what I had read, or that my mind would go completely blank while speaking. The night before the exam I didn't sleep. I couldn't. I felt constantly on the brink of a panic attack. 
+
+The same feeling followed me as I got ready, went to school, and gave my intro. It wasn't until Matt asked me my first question, which I knew how to answer, that I calmed down. Then I was fine. Everything after that, all of my adrenaline, was directed at answering the questions. I'm not totally sure what I said, but I remember being astonished at myself as I was speaking. It was like I transformed into another person. 
 
 ## May 8 2019
 
@@ -20,7 +104,7 @@
 - Love, Heather. *Feeling Backward: Loss and the Politics of Queer History*. 2009.
 - Caldwell, Kelly. "[The Torment of Queer Literature](https://therumpus.net/2018/06/the-torment-of-queer-literature/)," *The Rumpus*. 2018.
 
-**Protomodernist Aestheticizations --- How is queer/feminist resistence encoded into language that doesn't explicitly reference it?** 
+**Protomodernist Aestheticizations --- How is queer/feminist resistance encoded into language that doesn't explicitly reference it?** 
 - Wilde, Oscar. *The Picture of Dorian Gray*. 1890, 1891 & MS.
 - Pater, Walter. *Studies of the History of the Renaissance*. 1873.
 - Field, Michael. *Sight and Song*. 1892.
@@ -31,7 +115,7 @@
 - Barnes, Djuna. *Nightwood*. 1936.
 - Mansfield, Katherine. "Bliss," 1918 & *The Katherine Mansfield Notebooks*. 2002.
 
-**Postmodern Memoir-esque --- What do postmoderns writers approach the differences bewteen fiction and memoir?**
+**Postmodern Memoir-esque --- How do postmoderns writers approach the differences bewteen fiction and memoir?**
 - Baldwin, James. *Giovanni's Room*. 1956.
 - Anzaldua, Gloria. *Borderlands/La Frontera: The New Mestiza*. 1987.
 - Myles, Eileen. *Chelsea Girls*. 1994.
@@ -44,7 +128,7 @@
 * Rachilde. *Monsieur Venus*. 1884.
 * James, Henry. "The Beast in the Jungle," 1886 & "The Figure in the Carpet," 1896.
 * Freud, Sigmund. *Dora: Fragments of an Analysis of a Case of Hysteria*. 1905.
-* Hall, Radclyffe. "Miss Ogilvy Finds Herself," 1926 & "*The Well of Loneliness*, 1928.
+* Hall, Radclyffe. *The Well of Loneliness*, 1928.
 * Isherwood, Christopher. *Goodbye to Berlin*. 1939.
 * Radicalesbians. "The Woman-Identified Woman". 1970.
 * Delaney, Samuel. *The Motion of Light in Water*. 1988.
