@@ -2,7 +2,7 @@
 
 ## July 14 2019
 
-Been working on an outline of sorts. While creating this has been exilhirating, my approach toward structure perpetuates a scholarly tradition (the monograph) that I've found stale, intimidating, exclusive. Nonetheless here it is:
+Been working on an outline of sorts. While creating this has been exhilarating, my approach toward structure perpetuates a scholarly tradition (the monograph) that I've found stale, intimidating, exclusive. Nonetheless here it is:
 
 Intro ------- Queer Machines : laying out the associations between human and machine. 
 - the cyborg: parallels between cognition and computation
@@ -22,7 +22,7 @@ Second ------- Annotation / Pedagogy :
 - annotating affect
 - Barnes, Woolf & cognition
 
-Third ------- Speculation / Method : 
+Third ------- Speculative Reading / Methodology: 
 - *Voyant-Tools*: imagining what we don't know
 - *The Lesbian Herstory Archive*: against positivism
 - queer temporality: feeling backward, not here yet, feed-forward
